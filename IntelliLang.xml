@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JAVA" injector-id="xml">
+      <display-name>servlet-class</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("servlet-class")).withNamespace(string().equalTo("http://java.sun.com/dtd/web-app_2_3.dtd"))]]></place>
+    </injection>
+  </component>
+</application>
