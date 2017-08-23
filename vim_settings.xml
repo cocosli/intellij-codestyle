@@ -10,13 +10,26 @@
         <mark key="[" line="46" column="6" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/target/httpapi/index.html" timestamp="1503307287801" />
-      <file name="$USER_HOME$/company/proj/httpapi/src/main/webapp/static/ehekang_web/js/agency.js" timestamp="1503392412291" />
-      <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/applicationContext.xml" timestamp="1503043038365">
-        <mark key="[" line="4" column="0" />
+      <file name="/a.dummy" timestamp="1503456672001">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/ehekang/src/main/webapp/WEB-INF/web.xml" timestamp="1503455161546" />
       <file name="$USER_HOME$/Source/ehekang/src/main/java/com/fh/filter/LoginFilter.java" timestamp="1503369028948" />
+      <file name="$USER_HOME$/company/proj/httpapi/pom.xml" timestamp="1503457441893">
+        <mark key="[" line="86" column="0" />
+      </file>
       <file name="$USER_HOME$/DevTools/maven/maven-repo/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/web/filter/CharacterEncodingFilter.java" timestamp="1503298050422" />
+      <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/controller/BaseController.java" timestamp="1503457210413">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/company/proj/httpapi/src/main/webapp/static/ehekang_web/js/agency.js" timestamp="1503392412291" />
+      <file name="$USER_HOME$/Source/ehekang/src/main/java/com/fh/controller/base/BaseController.java" timestamp="1503457191994" />
+      <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/applicationContext.xml" timestamp="1503043038365">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/ApplicationContext.xml" timestamp="1503456204787">
+        <mark key="[" line="5" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers />
