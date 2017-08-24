@@ -7,17 +7,26 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/webapp/index.html" timestamp="1503393124956">
         <mark key="[" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/company/proj/httpapi/src/main/webapp/WEB-INF/web.xml" timestamp="1503537985993">
-        <mark key="[" line="46" column="6" />
+      <file name="$USER_HOME$/company/proj/httpapi/src/main/webapp/WEB-INF/web.xml" timestamp="1503539512807">
+        <mark key="[" line="48" column="64" />
+        <mark key="]" line="47" column="45" />
+        <mark key="^" line="47" column="45" />
+        <mark key="." line="47" column="45" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/target/httpapi/index.html" timestamp="1503307287801" />
+      <file name="/Java Fragment (web.xml:1562).java" timestamp="1503539313472">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1503456672001">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/ehekang/src/main/webapp/WEB-INF/web.xml" timestamp="1503455161546" />
       <file name="$USER_HOME$/Source/ehekang/src/main/java/com/fh/filter/LoginFilter.java" timestamp="1503369028948" />
-      <file name="$USER_HOME$/company/proj/httpapi/pom.xml" timestamp="1503480511065" />
+      <file name="$USER_HOME$/company/proj/httpapi/pom.xml" timestamp="1503539902481" />
       <file name="$USER_HOME$/DevTools/maven/maven-repo/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/web/filter/CharacterEncodingFilter.java" timestamp="1503298050422" />
+      <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/spring-config/ApplicationContext-mvc.xml" timestamp="1503539911343">
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/controller/BaseController.java" timestamp="1503457210413">
         <mark key="[" line="7" column="0" />
       </file>
@@ -25,6 +34,9 @@
       <file name="$USER_HOME$/Source/ehekang/src/main/java/com/fh/controller/base/BaseController.java" timestamp="1503457191994" />
       <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/applicationContext.xml" timestamp="1503043038365">
         <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/ehekang/pom.xml" timestamp="1503539110501">
+        <mark key="[" line="15" column="26" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/ApplicationContext.xml" timestamp="1503456204787">
         <mark key="[" line="5" column="0" />
