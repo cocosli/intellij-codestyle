@@ -25,7 +25,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/pom.xml" timestamp="1503539902481" />
       <file name="$USER_HOME$/DevTools/maven/maven-repo/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/web/filter/CharacterEncodingFilter.java" timestamp="1503298050422" />
       <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/spring-config/ApplicationContext-mvc.xml" timestamp="1503539911343">
-        <mark key="[" line="5" column="0" />
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/controller/BaseController.java" timestamp="1503457210413">
         <mark key="[" line="7" column="0" />
