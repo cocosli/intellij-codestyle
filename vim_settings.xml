@@ -18,6 +18,7 @@
       <file name="/Java Fragment (web.xml:1562).java" timestamp="1503539313472">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/webapp/WEB-INF/web.xml" timestamp="1503903043717" />
       <file name="$USER_HOME$/DevTools/maven/maven-repo/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/web/accept/ContentNegotiationManagerFactoryBean.java" timestamp="1503563998210" />
       <file name="/a.dummy" timestamp="1503456672001">
         <mark key="[" line="0" column="0" />
@@ -37,6 +38,9 @@
       </file>
       <file name="$USER_HOME$/Source/ehekang/pom.xml" timestamp="1503539110501">
         <mark key="[" line="15" column="26" />
+      </file>
+      <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/controller/IndexController.java" timestamp="1503903062497">
+        <mark key="[" line="42" column="30" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/ApplicationContext.xml" timestamp="1503456204787">
         <mark key="[" line="5" column="0" />
