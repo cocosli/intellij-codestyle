@@ -10,7 +10,7 @@
       <file name="/Java Fragment (web.xml:1562).java" timestamp="1503539313472">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/baidu/codemaster/house/web/src/main/webapp/html/step3.html" timestamp="1503997449694" />
+      <file name="$USER_HOME$/Source/baidu/codemaster/house/web/src/main/webapp/html/step3.html" timestamp="1504000364506" />
       <file name="/a.dummy" timestamp="1503456672001">
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,7 +18,9 @@
         <mark key="[" line="0" column="3" />
       </file>
       <file name="$USER_HOME$/Source/ehekang/src/main/java/com/fh/filter/LoginFilter.java" timestamp="1503369028948" />
-      <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/test/java/com/baidu/codemaster2/dao/HouseDAOImplTest.java" timestamp="1503999355665" />
+      <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/test/java/com/baidu/codemaster2/dao/HouseDAOImplTest.java" timestamp="1503999656061">
+        <mark key="[" line="49" column="4" />
+      </file>
       <file name="$USER_HOME$/DevTools/maven/maven-repo/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/web/filter/CharacterEncodingFilter.java" timestamp="1503298050422" />
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/controller/BaseController.java" timestamp="1503457210413">
         <mark key="[" line="7" column="0" />
@@ -26,12 +28,15 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/web/src/main/webapp/js/entrance.js" timestamp="1503997285560">
         <mark key="[" line="42" column="8" />
       </file>
+      <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/test/java/com/baidu/codemaster2/service/HouseServiceImplTest.java" timestamp="1504000746659">
+        <mark key="[" line="44" column="2" />
+      </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/applicationContext.xml" timestamp="1503043038365">
         <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/model/DistrictArea.java" timestamp="1503905983877" />
-      <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/dao/HouseDAOImpl.java" timestamp="1503998108547" />
-      <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/controller/IndexController.java" timestamp="1503997069654" />
+      <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/dao/HouseDAOImpl.java" timestamp="1504000635790" />
+      <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/controller/IndexController.java" timestamp="1503999731955" />
       <file name="$USER_HOME$/Source/baidu/codemaster/house/web/src/main/webapp/js/list.js" timestamp="1503994864939" />
       <file name="/Dummy.txt" timestamp="1503904068241">
         <mark key="[" line="0" column="0" />
@@ -43,7 +48,7 @@
       <file name="$USER_HOME$/Source/ehekang/src/main/webapp/WEB-INF/web.xml" timestamp="1503455161546" />
       <file name="$USER_HOME$/company/proj/httpapi/pom.xml" timestamp="1503539902481" />
       <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/spring-config/ApplicationContext-mvc.xml" timestamp="1503564163781" />
-      <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/service/HouseServiceImpl.java" timestamp="1503995527358" />
+      <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/service/HouseServiceImpl.java" timestamp="1503999818586" />
       <file name="$USER_HOME$/company/proj/httpapi/src/main/webapp/static/ehekang_web/js/agency.js" timestamp="1503392412291" />
       <file name="$USER_HOME$/Source/baidu/codemaster/house/web/src/main/webapp/js/map.js" timestamp="1503996218406" />
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/service/PredictService.java" timestamp="1503999101832">
@@ -64,7 +69,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/ApplicationContext.xml" timestamp="1503456204787">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/test/java/com/baidu/codemaster2/model/HouseInfoTest.java" timestamp="1503999336864">
+      <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/test/java/com/baidu/codemaster2/model/HouseInfoTest.java" timestamp="1503999941153">
         <mark key="[" line="30" column="4" />
       </file>
     </filemarks>
