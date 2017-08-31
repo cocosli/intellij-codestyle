@@ -55,9 +55,7 @@
       <file name="$USER_HOME$/DevTools/maven/maven-repo/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/web/accept/ContentNegotiationManagerFactoryBean.java" timestamp="1503563998210" />
       <file name="$USER_HOME$/Source/ehekang/src/main/webapp/WEB-INF/web.xml" timestamp="1503455161546" />
       <file name="$USER_HOME$/company/proj/httpapi/pom.xml" timestamp="1503539902481" />
-      <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/spring-config/ApplicationContext-mvc.xml" timestamp="1504165975626">
-        <mark key="[" line="24" column="52" />
-      </file>
+      <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/spring-config/ApplicationContext-mvc.xml" timestamp="1504167541332" />
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/service/HouseServiceImpl.java" timestamp="1504078492357" />
       <file name="$USER_HOME$/company/proj/httpapi/src/main/webapp/static/ehekang_web/js/agency.js" timestamp="1503392412291" />
       <file name="$USER_HOME$/Source/baidu/codemaster/house/web/src/main/webapp/js/map.js" timestamp="1503996218406" />
@@ -76,8 +74,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/baidu/codemaster/house/web/src/main/webapp/js/pages.js" timestamp="1504079238431" />
-      <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/ApplicationContext.xml" timestamp="1503456204787">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/ApplicationContext.xml" timestamp="1504167287307">
+        <mark key="[" line="7" column="74" />
       </file>
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/test/java/com/baidu/codemaster2/model/HouseInfoTest.java" timestamp="1503999941153">
         <mark key="[" line="30" column="4" />
