@@ -18,6 +18,9 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/test/java/com/baidu/codemaster2/dao/HouseDAOImplTest.java" timestamp="1503999656061">
         <mark key="[" line="49" column="4" />
       </file>
+      <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/controller/CustomServiceController.java" timestamp="1505702888250">
+        <mark key="[" line="8" column="37" />
+      </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/controller/BaseController.java" timestamp="1503457210413">
         <mark key="[" line="7" column="0" />
       </file>
@@ -42,7 +45,7 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/model/HouseInfo.java" timestamp="1504079042127">
         <mark key="[" line="37" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/util/VoiceUtil.java" timestamp="1505460872467">
+      <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/util/VoiceUtil.java" timestamp="1505702195646">
         <mark key="[" line="20" column="83" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/sound/jsresource/SimpleAudioPlayer.java" timestamp="1504772026905" />
