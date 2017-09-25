@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/controller/CustomerServiceController.java" timestamp="1505720224495" />
       <file name="$USER_HOME$/company/proj/httpapi/src/main/webapp/index.html" timestamp="1503393124956">
         <mark key="[" line="14" column="16" />
       </file>
@@ -49,12 +48,14 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/util/VoiceUtil.java" timestamp="1505702195646">
         <mark key="[" line="20" column="83" />
       </file>
-      <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/sound/jsresource/SimpleAudioPlayer.java" timestamp="1504772026905" />
-      <file name="$USER_HOME$/company/proj/httpapi/pom.xml" timestamp="1504766562821">
-        <mark key="[" line="246" column="16" />
+      <file name="$USER_HOME$/company/proj/httpapi/pom.xml" timestamp="1506307322056">
+        <mark key="[" line="266" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/client/XunfeiClient.java" timestamp="1505360140042">
         <mark key="[" line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/util/GaiaUtil.java" timestamp="1506307424350">
+        <mark key="[" line="30" column="15" />
       </file>
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/service/PredictService.java" timestamp="1504078540822">
         <mark key="[" line="44" column="65" />
@@ -71,8 +72,7 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/model/dd.java" timestamp="1503996806254">
         <mark key="[" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/httpapi/sql/customer_service_info" timestamp="1505870524405" />
-      <file name="/fragment.java" timestamp="1503904068253">
+      <file name="/fragment.java" timestamp="1506307365054">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/ApplicationContext.xml" timestamp="1504491595538">
