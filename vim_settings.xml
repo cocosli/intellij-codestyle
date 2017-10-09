@@ -25,6 +25,9 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/controller/CustomServiceController.java" timestamp="1505706961184">
         <mark key="[" line="8" column="37" />
       </file>
+      <file name="$USER_HOME$/company/proj/httpapi/sql/return_visit_info" timestamp="1507532171411">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/controller/BaseController.java" timestamp="1503457210413">
         <mark key="[" line="7" column="0" />
       </file>
@@ -34,6 +37,9 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/web/src/main/webapp/js/entrance.js" timestamp="1504079526825">
         <mark key="[" line="42" column="8" />
       </file>
+      <file name="$USER_HOME$/company/proj/httpapi/sql/phone_info" timestamp="1507532167124">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/test/java/com/baidu/codemaster2/service/HouseServiceImplTest.java" timestamp="1504000746659">
         <mark key="[" line="44" column="2" />
       </file>
@@ -42,6 +48,9 @@
       </file>
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/dao/HouseDAOImpl.java" timestamp="1504079639587">
         <mark key="[" line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/company/proj/httpapi/sql/service_person_info" timestamp="1507532174501">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/controller/IndexController.java" timestamp="1504079199243">
         <mark key="[" line="70" column="73" />
@@ -58,6 +67,9 @@
       <file name="$USER_HOME$/company/proj/httpapi/pom.xml" timestamp="1506668500744">
         <mark key="[" line="266" column="0" />
       </file>
+      <file name="$USER_HOME$/company/proj/httpapi/sql/call_record_info" timestamp="1507532179309">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/dao/model/ServicePersonInfo.java" timestamp="1507530670890">
         <mark key="[" line="3" column="0" />
       </file>
@@ -73,15 +85,10 @@
       <file name="$USER_HOME$/Source/ehekang/pom.xml" timestamp="1503539110501">
         <mark key="[" line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/client/BCEClient.java" timestamp="1504770298493">
-        <mark key="[" line="86" column="94" />
-        <mark key="]" line="51" column="10" />
-        <mark key="^" line="51" column="10" />
-        <mark key="." line="51" column="10" />
-      </file>
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/model/dd.java" timestamp="1503996806254">
         <mark key="[" line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/company/proj/httpapi/sql/customer_service_info" timestamp="1507531888807" />
       <file name="/fragment.java" timestamp="1507520313274">
         <mark key="[" line="0" column="0" />
       </file>
