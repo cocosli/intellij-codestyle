@@ -64,6 +64,9 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/util/VoiceUtil.java" timestamp="1505702195646">
         <mark key="[" line="20" column="83" />
       </file>
+      <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/client/CallCloudClient.java" timestamp="1507543385764">
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/company/proj/httpapi/pom.xml" timestamp="1506668500744">
         <mark key="[" line="266" column="0" />
       </file>
@@ -73,7 +76,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/dao/model/ServicePersonInfo.java" timestamp="1507530670890">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/client/XunfeiClient.java" timestamp="1505360140042">
+      <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/client/XunfeiClient.java" timestamp="1507542864904">
         <mark key="[" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/util/GaiaUtil.java" timestamp="1506480921472">
