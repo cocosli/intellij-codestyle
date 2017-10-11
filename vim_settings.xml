@@ -109,8 +109,9 @@
         <mark key="[" line="101" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/ApiBody.java" timestamp="1507690304304" />
-      <file name="$USER_HOME$/company/proj/callcloud/pom.xml" timestamp="1507689825895">
-        <mark key="[" line="4" column="18" />
+      <file name="$USER_HOME$/company/proj/callcloud/pom.xml" timestamp="1507705441569">
+        <mark key="'" line="137" column="25" />
+        <mark key="[" line="125" column="16" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/model/ApiBody.java" timestamp="1507539850702">
         <mark key="[" line="0" column="31" />
@@ -129,7 +130,9 @@
         <mark key="[" line="7" column="74" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="125" column="25" filename="$USER_HOME$/company/proj/callcloud/pom.xml" />
+    </jumps>
     <registers />
     <search>
       <last-dir>0</last-dir>
