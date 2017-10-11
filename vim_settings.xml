@@ -89,7 +89,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/service/impl/CustomerServiceService.java" timestamp="1507619486710">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/generator-config.xml" timestamp="1507711317317">
+      <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/generator-config.xml" timestamp="1507713927661">
         <mark key="[" line="0" column="57" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/sql/service_person_info" timestamp="1507619637633">
@@ -98,13 +98,13 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/controller/IndexController.java" timestamp="1504079199243">
         <mark key="[" line="70" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503904068241">
+      <file name="/Dummy.txt" timestamp="1507714123763">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/util/VoiceUtil.java" timestamp="1505702195646">
         <mark key="[" line="20" column="83" />
       </file>
-      <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/generator.properties" timestamp="1507711385485">
+      <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/generator.properties" timestamp="1507715368109">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/spring-config/ApplicationContext-db.xml" timestamp="1507701458824">
@@ -116,9 +116,9 @@
       <file name="$USER_HOME$/company/proj/httpapi/pom.xml" timestamp="1507686881339">
         <mark key="[" line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/callcloud/pom.xml" timestamp="1507711667108">
-        <mark key="'" line="143" column="25" />
-        <mark key="[" line="132" column="16" />
+      <file name="$USER_HOME$/company/proj/callcloud/pom.xml" timestamp="1507715187210">
+        <mark key="'" line="145" column="25" />
+        <mark key="[" line="134" column="16" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/model/ApiBody.java" timestamp="1507539850702">
         <mark key="[" line="0" column="31" />
@@ -129,7 +129,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/conf/dev/dev.properties" timestamp="1507689302140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1507539771511">
+      <file name="/fragment.java" timestamp="1507714104379">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/ApplicationContext.xml" timestamp="1504491595538">
