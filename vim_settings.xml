@@ -9,6 +9,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/webapp/index.html" timestamp="1503393124956">
         <mark key="[" line="14" column="16" />
       </file>
+      <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/mapper/CallRecordInfoMapper.xml" timestamp="1507774832912" />
       <file name="/Java Fragment (web.xml:1562).java" timestamp="1503539313472">
         <mark key="[" line="0" column="0" />
       </file>
@@ -89,7 +90,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/service/impl/CustomerServiceService.java" timestamp="1507619486710">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/generator-config.xml" timestamp="1507713927661">
+      <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/generator-config.xml" timestamp="1507774792409">
         <mark key="[" line="0" column="57" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/sql/service_person_info" timestamp="1507619637633">
