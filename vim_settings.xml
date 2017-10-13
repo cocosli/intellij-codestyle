@@ -56,6 +56,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/mybatis-config.xml" timestamp="1507689154780">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/mapper/PhoneInfoMapper.xml" timestamp="1507875505848" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/mapper/phoneMapper.xml" timestamp="1507710711439" />
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/model/CallResult.java" timestamp="1507619464358">
         <mark key="[" line="2" column="24" />
