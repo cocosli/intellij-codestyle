@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="asdf" type="CLASS" />
       <mapping pattern="service_person_info" type="SQL" />
       <mapping pattern="call_record_info" type="SQL" />
       <mapping pattern="return_visit_info" type="SQL" />
