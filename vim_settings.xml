@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/webapp/index.html" timestamp="1503393124956">
         <mark key="[" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/mapper/CallRecordInfoMapper.xml" timestamp="1508232604434" />
+      <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/mapper/CallRecordInfoMapper.xml" timestamp="1508299095723" />
       <file name="/Java Fragment (web.xml:1562).java" timestamp="1503539313472">
         <mark key="[" line="0" column="0" />
       </file>
@@ -55,7 +55,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/mybatis-config.xml" timestamp="1507689154780">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/mapper/PhoneInfoMapper.xml" timestamp="1508232203559">
+      <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/mapper/PhoneInfoMapper.xml" timestamp="1508300979425">
         <mark key="[" line="106" column="66" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/mapper/phoneMapper.xml" timestamp="1508231916318">
@@ -76,10 +76,10 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/service/PredictService.java" timestamp="1504078540822">
         <mark key="[" line="44" column="65" />
       </file>
-      <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/mapper/ReturnVisitInfoMapper.xml" timestamp="1508226848479">
-        <mark key="[" line="188" column="38" />
-        <mark key="]" line="189" column="0" />
-        <mark key="." line="189" column="0" />
+      <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/mapper/ReturnVisitInfoMapper.xml" timestamp="1508300950422">
+        <mark key="[" line="203" column="38" />
+        <mark key="]" line="204" column="0" />
+        <mark key="." line="204" column="0" />
       </file>
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/model/dd.java" timestamp="1503996806254">
         <mark key="[" line="30" column="0" />
@@ -96,7 +96,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/req/HealthCheckReq.java" timestamp="1507690445885">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/mapper/ServicePersonInfoMapper.xml" timestamp="1508295812811" />
+      <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/mapper/ServicePersonInfoMapper.xml" timestamp="1508301242591" />
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/service/impl/CustomerServiceService.java" timestamp="1507619486710">
         <mark key="[" line="4" column="0" />
       </file>
