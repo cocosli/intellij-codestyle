@@ -30,7 +30,9 @@
       <file name="$USER_HOME$/company/proj/httpapi/sql/return_visit_info" timestamp="1507688585730">
         <mark key="[" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/CallResult.java" timestamp="1508396153201" />
+      <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/CallResult.java" timestamp="1508396621751">
+        <mark key="[" line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/controller/BaseController.java" timestamp="1503457210413">
         <mark key="[" line="7" column="0" />
       </file>
@@ -55,7 +57,7 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/dao/HouseDAOImpl.java" timestamp="1504079639587">
         <mark key="[" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/client/CallCloudClient.java" timestamp="1507690366359">
+      <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/client/CallCloudClient.java" timestamp="1508401107596">
         <mark key="[" line="24" column="34" />
       </file>
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/model/HouseInfo.java" timestamp="1504079042127">
@@ -160,10 +162,10 @@
       <file name="$USER_HOME$/company/proj/httpapi/pom.xml" timestamp="1507686881339">
         <mark key="[" line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/controller/CustomerServiceController.java" timestamp="1508395915908" />
-      <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/ApiBody.java" timestamp="1508396217790" />
+      <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/controller/CustomerServiceController.java" timestamp="1508401634370" />
+      <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/ApiBody.java" timestamp="1508396355513" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/service/ICustomerServiceService.java" timestamp="1508395875773">
-        <mark key="[" line="3" column="0" />
+        <mark key="[" line="24" column="0" />
       </file>
       <file name="/Class.txt.ft" timestamp="1507881261951">
         <mark key="[" line="0" column="0" />
