@@ -63,8 +63,8 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/model/HouseInfo.java" timestamp="1504079042127">
         <mark key="[" line="37" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/service/impl/CustomerServiceService.java" timestamp="1507708584827">
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/service/impl/CustomerServiceService.java" timestamp="1508403540691">
+        <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/mybatis-config.xml" timestamp="1507689154780">
         <mark key="[" line="4" column="0" />
@@ -164,9 +164,6 @@
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/controller/CustomerServiceController.java" timestamp="1508401634370" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/ApiBody.java" timestamp="1508396355513" />
-      <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/service/ICustomerServiceService.java" timestamp="1508395875773">
-        <mark key="[" line="24" column="0" />
-      </file>
       <file name="/Class.txt.ft" timestamp="1507881261951">
         <mark key="[" line="0" column="0" />
       </file>
