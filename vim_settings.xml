@@ -57,8 +57,8 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/dao/HouseDAOImpl.java" timestamp="1504079639587">
         <mark key="[" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/client/CallCloudClient.java" timestamp="1509092300286">
-        <mark key="[" line="16" column="61" />
+      <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/client/CallCloudClient.java" timestamp="1509359336059">
+        <mark key="[" line="21" column="61" />
       </file>
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/model/HouseInfo.java" timestamp="1504079042127">
         <mark key="[" line="37" column="4" />
@@ -84,6 +84,9 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/dao/CallRecordDao.java" timestamp="1508385704109">
         <mark key="[" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/ics/ICSOutcallResult.java" timestamp="1509357007403">
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/dao/model/ServicePersonInfo.java" timestamp="1507530670890">
         <mark key="[" line="3" column="0" />
       </file>
@@ -93,8 +96,11 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/util/GaiaUtil.java" timestamp="1506480921472">
         <mark key="[" line="26" column="15" />
       </file>
-      <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/ics/ICSGetRecordReq.java" timestamp="1509351798697">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/util/ObjectUtil.java" timestamp="1509359226135">
+        <mark key="[" line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/ics/ICSGetRecordReq.java" timestamp="1509357501251">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/service/PredictService.java" timestamp="1504078540822">
         <mark key="[" line="44" column="65" />
