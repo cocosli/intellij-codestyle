@@ -66,7 +66,7 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/model/HouseInfo.java" timestamp="1504079042127">
         <mark key="[" line="37" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/service/impl/CustomerServiceService.java" timestamp="1510044156568">
+      <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/service/impl/CustomerServiceService.java" timestamp="1510046331550">
         <mark key="[" line="37" column="29" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/mybatis-config.xml" timestamp="1507689154780">
@@ -113,6 +113,9 @@
       </file>
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/service/PredictService.java" timestamp="1504078540822">
         <mark key="[" line="44" column="65" />
+      </file>
+      <file name="$USER_HOME$/company/proj/callcloud/sql/call_record_info" timestamp="1510046470747">
+        <mark key="[" line="5" column="116" />
       </file>
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/model/dd.java" timestamp="1503996806254">
         <mark key="[" line="30" column="0" />
