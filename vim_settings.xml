@@ -104,6 +104,9 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/test/java/com/baidu/codemaster2/model/HouseInfoTest.java" timestamp="1503999941153">
         <mark key="[" line="30" column="4" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/UserController.java" timestamp="1510542880869">
+        <mark key="[" line="81" column="4" />
+      </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/model/req/OutboundCallReq.java" timestamp="1507688853830">
         <mark key="[" line="3" column="0" />
       </file>
@@ -122,7 +125,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/generator-config.xml" timestamp="1507880275172">
         <mark key="[" line="145" column="92" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/api/UserApi.java" timestamp="1510540572261">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/api/UserApi.java" timestamp="1510542840844">
         <mark key="[" line="45" column="42" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/dao/model/CallRecordInfo.java" timestamp="1510120219073">
@@ -219,6 +222,9 @@
       <file name="$USER_HOME$/company/proj/httpapi/sql/return_visit_info" timestamp="1507688585730">
         <mark key="[" line="12" column="21" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/permission/PermissionProxy.java" timestamp="1510543488106">
+        <mark key="[" line="174" column="4" />
+      </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/argus/dao/ReturnVisitDao.java" timestamp="1510295606490">
         <mark key="[" line="22" column="29" />
       </file>
@@ -251,6 +257,9 @@
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/req/OutboundCallReq.java" timestamp="1510028009781">
         <mark key="[" line="5" column="26" />
+      </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/constants/ArgusConstants.java" timestamp="1510543600020">
+        <mark key="[" line="207" column="48" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/model/CallResult.java" timestamp="1507619464358">
         <mark key="[" line="2" column="24" />
@@ -295,8 +304,8 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/test/java/com/baidu/codemaster2/dao/HouseDAOImplTest.java" timestamp="1503999656061">
         <mark key="[" line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/cloud.properties" timestamp="1510541069531">
-        <mark key="[" line="125" column="31" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/cloud.properties" timestamp="1510543229002">
+        <mark key="[" line="126" column="31" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/conf/dev/dev.properties" timestamp="1510134493922">
         <mark key="[" line="26" column="53" />
@@ -367,6 +376,9 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/argus/dao/CallRecordDao.java" timestamp="1510294161733" />
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/model/ApiBody.java" timestamp="1507539850702">
         <mark key="[" line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/permission/RoleUser.java" timestamp="1510542472497">
+        <mark key="[" line="12" column="24" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/MD5Util.java" timestamp="1510306220027" />
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-mvc.xml" timestamp="1510539475470">
