@@ -442,6 +442,9 @@
       <file name="$USER_HOME$/company/proj/callcloud/sql/return_visit_info" timestamp="1510119895256">
         <mark key="[" line="14" column="2" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/UserMapper.xml" timestamp="1510821143192">
+        <mark key="[" line="28" column="12" />
+      </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/interceptor/ApiWhiteListInterceptor.java" timestamp="1510563397754">
         <mark key="[" line="33" column="20" />
       </file>
