@@ -18,7 +18,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/webapp/page/productInfo.html" timestamp="1510885903196" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/webapp/page/applyList.html" timestamp="1510294669191" />
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/UserService.java" timestamp="1510909094136" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/CurrentUserController.java" timestamp="1510712148858" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/CurrentUserController.java" timestamp="1511420924319" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/model/po/ArgTelephoneAudit.java" timestamp="1510558962389" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/ArgTelePhoneAuditDao.java" timestamp="1510562967256">
         <mark key="[" line="59" column="0" />
@@ -79,7 +79,7 @@
         <mark key="[" line="54" column="8" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/job/DispatchService.java" timestamp="1510622063404" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/api/CustomerServiceAPI.java" timestamp="1511229476498" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/api/CustomerServiceAPI.java" timestamp="1511420961215" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/DateUtils.java" timestamp="1510561232288" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/interceptor/LogInterceptor.java" timestamp="1510794720758" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/controller/TelAuditController.java" timestamp="1510629900331">
