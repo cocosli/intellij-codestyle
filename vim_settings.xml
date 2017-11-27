@@ -460,7 +460,9 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/UserMapper.xml" timestamp="1510821143192">
         <mark key="[" line="28" column="12" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/interceptor/PermissionInterceptor.java" timestamp="1511751996701" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/interceptor/PermissionInterceptor.java" timestamp="1511774820103">
+        <mark key="[" line="79" column="38" />
+      </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/interceptor/ApiWhiteListInterceptor.java" timestamp="1510563397754">
         <mark key="[" line="33" column="20" />
       </file>
