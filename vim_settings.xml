@@ -68,7 +68,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/webapp/page/productInfo.html" timestamp="1510885903196" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/webapp/page/applyList.html" timestamp="1510294669191" />
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/UserService.java" timestamp="1510909094136" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/CurrentUserController.java" timestamp="1511765355484" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/CurrentUserController.java" timestamp="1511854738498" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/generator-config.xml" timestamp="1507880275172">
         <mark key="[" line="145" column="92" />
       </file>
@@ -158,7 +158,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/dao/mapper/ServicePersonInfoMapper.java" timestamp="1508395652455">
         <mark key="[" line="37" column="32" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/filter/AdapterFilter.java" timestamp="1510911729638" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/filter/AdapterFilter.java" timestamp="1511854417568" />
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/util/GaiaUtil.java" timestamp="1506480921472">
         <mark key="[" line="26" column="15" />
       </file>
