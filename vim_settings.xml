@@ -141,7 +141,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/CallResult.java" timestamp="1510192411682">
         <mark key="[" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/HttpUtil.java" timestamp="1510908364423" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/HttpUtil.java" timestamp="1512030489778" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/dao/ReturnVisitDao.java" timestamp="1510195110835">
         <mark key="[" line="35" column="2" />
       </file>
@@ -384,8 +384,8 @@
         <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/aspect/DistributedLockAspect.java" timestamp="1511144021414" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/permission/PermissionProxy.java" timestamp="1510913010880">
-        <mark key="[" line="73" column="12" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/permission/PermissionProxy.java" timestamp="1512030852412">
+        <mark key="[" line="106" column="92" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/argus/dao/ReturnVisitDao.java" timestamp="1510295606490">
         <mark key="[" line="22" column="29" />
@@ -464,7 +464,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/UserMapper.xml" timestamp="1510821143192">
         <mark key="[" line="28" column="12" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/interceptor/PermissionInterceptor.java" timestamp="1512029407739">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/interceptor/PermissionInterceptor.java" timestamp="1512029444348">
         <mark key="[" line="80" column="38" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/interceptor/ApiWhiteListInterceptor.java" timestamp="1510563397754">
