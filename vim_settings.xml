@@ -81,6 +81,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/model/po/ArgTelephoneAudit.java" timestamp="1510558962389" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/test/java/dao/RiskPointTest.java" timestamp="1512033680377">
+        <mark key="[" line="39" column="32" />
+      </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/dao/mapper/CallRecordInfoMapper.java" timestamp="1510065038540">
         <mark key="[" line="45" column="0" />
       </file>
@@ -99,8 +102,8 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/service/ICustomerServiceService.java" timestamp="1509419312448">
         <mark key="[" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/dev.properties" timestamp="1511753371934">
-        <mark key="[" line="117" column="13" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/dev.properties" timestamp="1512033374424">
+        <mark key="[" line="100" column="24" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/dao/mapper/ArgApproveMapper.java" timestamp="1509420392068">
         <mark key="[" line="0" column="31" />
@@ -384,8 +387,8 @@
         <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/aspect/DistributedLockAspect.java" timestamp="1511144021414" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/permission/PermissionProxy.java" timestamp="1512030852412">
-        <mark key="[" line="106" column="92" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/permission/PermissionProxy.java" timestamp="1512033049608">
+        <mark key="[" line="132" column="92" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/argus/dao/ReturnVisitDao.java" timestamp="1510295606490">
         <mark key="[" line="22" column="29" />
@@ -401,7 +404,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/UUIDUtil.java" timestamp="1510280126853">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/constants/ArgusConstants.java" timestamp="1512029115579">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/constants/ArgusConstants.java" timestamp="1512033337158">
         <mark key="[" line="129" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/interceptor/WhiteListInterceptor.java" timestamp="1510563451418">
