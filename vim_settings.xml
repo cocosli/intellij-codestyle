@@ -53,6 +53,7 @@
         <mark key="[" line="0" column="43" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/interceptor/ApiWhiteListInterceptor.java" timestamp="1511228395073" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/UserController.java" timestamp="1512096094978" />
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/model/req/OutboundCallReq.java" timestamp="1507688853830">
         <mark key="[" line="3" column="0" />
       </file>
@@ -163,7 +164,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/dao/mapper/ServicePersonInfoMapper.java" timestamp="1508395652455">
         <mark key="[" line="37" column="32" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/filter/AdapterFilter.java" timestamp="1511854417568" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/filter/AdapterFilter.java" timestamp="1512095595346" />
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/util/GaiaUtil.java" timestamp="1506480921472">
         <mark key="[" line="26" column="15" />
       </file>
@@ -234,6 +235,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/client/CallCloudClient.java" timestamp="1507548487482">
         <mark key="[" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/interceptor/PermissionInterceptor.java" timestamp="1512096499753" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/controller/CustomerServiceController.java" timestamp="1510228100922">
         <mark key="[" line="36" column="70" />
       </file>
@@ -335,7 +337,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/dao/ArgApproveDao.java" timestamp="1509420659601">
         <mark key="[" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/RoleController.java" timestamp="1512028881453" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/RoleController.java" timestamp="1512094446511" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/util/CommonTools.java" timestamp="1510029026298">
         <mark key="[" line="389" column="0" />
       </file>
@@ -467,7 +469,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/UserMapper.xml" timestamp="1510821143192">
         <mark key="[" line="28" column="12" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/interceptor/PermissionInterceptor.java" timestamp="1512029444348">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/interceptor/PermissionInterceptor.java" timestamp="1512095012798">
         <mark key="[" line="80" column="38" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/interceptor/ApiWhiteListInterceptor.java" timestamp="1510563397754">
