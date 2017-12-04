@@ -57,13 +57,14 @@
         <mark key="[" line="0" column="43" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/interceptor/ApiWhiteListInterceptor.java" timestamp="1511228395073" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/UserController.java" timestamp="1512096094978" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/UserController.java" timestamp="1512354125609" />
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/model/req/OutboundCallReq.java" timestamp="1507688853830">
         <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/model/ics/ICSTelCallbackInfo.java" timestamp="1510287518585">
         <mark key="[" line="6" column="38" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/CurrentUserService.java" timestamp="1512353631093" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/req/HealthCheckReq.java" timestamp="1507690445885">
         <mark key="[" line="3" column="0" />
       </file>
