@@ -209,7 +209,7 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/test/java/com/baidu/codemaster2/dao/HouseDAOImplTest.java" timestamp="1503999656061">
         <mark key="[" line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/cloud.properties" timestamp="1512377444456">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/cloud.properties" timestamp="1512467067115">
         <mark key="[" line="104" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/ArgTelephoneAuditServiceImpl.java" timestamp="1511232171461">
@@ -264,7 +264,7 @@
         <mark key="[" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/ArgusException.java" timestamp="1510794770784" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-mvc.xml" timestamp="1512378346628">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-mvc.xml" timestamp="1512466787770">
         <mark key="[" line="56" column="58" />
       </file>
       <file name="/fragment.java" timestamp="1512378176545">
@@ -437,7 +437,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/sql/call_record_info" timestamp="1510728338305">
         <mark key="[" line="12" column="75" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/ProductInfoConfigServiceImpl.java" timestamp="1512459888957" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/ProductInfoConfigServiceImpl.java" timestamp="1512467046029" />
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/webapp/WEB-INF/web.xml" timestamp="1512358560868">
         <mark key="[" line="36" column="6" />
       </file>
