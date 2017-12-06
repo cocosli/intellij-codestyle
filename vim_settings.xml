@@ -160,7 +160,7 @@
         <mark key="[" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/HttpUtil.java" timestamp="1512030489778" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.3.1.RELEASE/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/data/redis/RedisOperationsSessionRepository.java" timestamp="1512535906093" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.3.1.RELEASE/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/data/redis/RedisOperationsSessionRepository.java" timestamp="1512538158884" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/dao/ReturnVisitDao.java" timestamp="1510195110835">
         <mark key="[" line="35" column="2" />
       </file>
@@ -485,7 +485,7 @@
         <mark key="[" line="80" column="15" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/argus/dao/model/CallRecordInfo.java" timestamp="1510294149857" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/local/config-db.properties" timestamp="1512536368330">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/local/config-db.properties" timestamp="1512538309662">
         <mark key="[" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/sql/return_visit_info" timestamp="1510119895256">
