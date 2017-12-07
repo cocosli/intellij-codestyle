@@ -70,6 +70,9 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/qa/config-db.properties" timestamp="1512536354762">
         <mark key="[" line="37" column="29" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/CurrentUserService.java" timestamp="1512637288406">
+        <mark key="[" line="90" column="38" />
+      </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/req/HealthCheckReq.java" timestamp="1507690445885">
         <mark key="[" line="3" column="0" />
       </file>
