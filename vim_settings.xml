@@ -66,7 +66,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/dev/config-db.properties" timestamp="1512651418269">
         <mark key="[" line="37" column="29" />
       </file>
-      <file name="$USER_HOME$/DevTools/maven/maven-repo/com/baidu/fbu/common/common/1.1.1/common-1.1.1-sources.jar!/com/baidu/fbu/common/model/MetaInfo.java" timestamp="1512716378819" />
+      <file name="$USER_HOME$/DevTools/maven/maven-repo/com/baidu/fbu/common/common/1.1.1/common-1.1.1-sources.jar!/com/baidu/fbu/common/model/MetaInfo.java" timestamp="1512716919721" />
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/filter/AdapterFilter.java" timestamp="1512640961955" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/resources/mapper/CallRecordInfoMapper.xml" timestamp="1510555469576">
         <mark key="[" line="20" column="78" />
@@ -109,7 +109,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/api/CustomerServiceAPI.java" timestamp="1511420961215" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/DateUtils.java" timestamp="1510561232288" />
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring-context.xml" timestamp="1512110816054" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/interceptor/LogInterceptor.java" timestamp="1512716219345" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/interceptor/LogInterceptor.java" timestamp="1512716863100" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/controller/TelAuditController.java" timestamp="1510629900331">
         <mark key="[" line="81" column="8" />
       </file>
@@ -131,6 +131,8 @@
         <mark key="[" line="209" column="26" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/resources/mapper/ArgTelephoneAuditMapper.xml" timestamp="1511230914547" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/FormatService.java" timestamp="1512717248069" />
+      <file name="$USER_HOME$/DevTools/maven/maven-repo/com/baidu/fbu/common/common/1.1.1/common-1.1.1-sources.jar!/com/baidu/fbu/common/service/CacheService.java" timestamp="1512717547129" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/aspect/ExceptionHandlerAspect.java" timestamp="1510794882527" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/app/src/entry/ProductInfo.tsx" timestamp="1510301151679" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/model/CallResult.java" timestamp="1510566405846" />
