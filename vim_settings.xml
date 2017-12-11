@@ -114,7 +114,7 @@
         <mark key="[" line="113" column="29" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/it.02.properties" timestamp="1510539432358" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/online/config-db.properties" timestamp="1512651617679">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/online/config-db.properties" timestamp="1512975534487">
         <mark key="[" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/service/ICustomerServiceService.java" timestamp="1509419312448">
@@ -260,7 +260,7 @@
       <file name="/Class.txt.ft" timestamp="1507881261951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/RoleService.java" timestamp="1512959573179" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/RoleService.java" timestamp="1512975329743" />
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/model/ApiBody.java" timestamp="1507539850702">
         <mark key="[" line="0" column="31" />
       </file>
@@ -360,7 +360,7 @@
         <mark key="[" line="0" column="31" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/RoleController.java" timestamp="1512705150539" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/interceptor/ResourcePermissionInterceptor.java" timestamp="1512378641423">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/interceptor/ResourcePermissionInterceptor.java" timestamp="1512975587391">
         <mark key="[" line="38" column="25" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/util/CommonTools.java" timestamp="1510029026298">
@@ -416,7 +416,7 @@
         <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/aspect/DistributedLockAspect.java" timestamp="1511144021414" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/permission/PermissionProxy.java" timestamp="1512974669970" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/permission/PermissionProxy.java" timestamp="1512975310154" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/argus/dao/ReturnVisitDao.java" timestamp="1510295606490">
         <mark key="[" line="22" column="29" />
       </file>
