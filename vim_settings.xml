@@ -67,8 +67,8 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/model/ics/ICSTelCallbackInfo.java" timestamp="1510287518585">
         <mark key="[" line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/qa/config-db.properties" timestamp="1512536354762">
-        <mark key="[" line="37" column="29" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/qa/config-db.properties" timestamp="1512998865395">
+        <mark key="[" line="31" column="9" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/CurrentUserService.java" timestamp="1512640792144">
         <mark key="[" line="90" column="38" />
@@ -111,8 +111,8 @@
         <mark key="[" line="113" column="29" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/it.02.properties" timestamp="1510539432358" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/online/config-db.properties" timestamp="1512975534487">
-        <mark key="[" line="26" column="0" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/online/config-db.properties" timestamp="1512998770361">
+        <mark key="[" line="32" column="9" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/service/ICustomerServiceService.java" timestamp="1509419312448">
         <mark key="[" line="7" column="29" />
@@ -167,14 +167,14 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/applicationContext.xml" timestamp="1503043038365">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-db.xml" timestamp="1512990387040">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-db.xml" timestamp="1512998719710">
         <mark key="[" line="87" column="8" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/CustomerServiceServiceImpl.java" timestamp="1512964210124">
         <mark key="[" line="104" column="12" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/dev/config-db.properties" timestamp="1512651418269">
-        <mark key="[" line="37" column="29" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/dev/config-db.properties" timestamp="1512998757870">
+        <mark key="[" line="31" column="9" />
       </file>
       <file name="$USER_HOME$/DevTools/maven/maven-repo/com/baidu/fbu/common/common/1.1.1/common-1.1.1-sources.jar!/com/baidu/fbu/common/model/MetaInfo.java" timestamp="1512716919721" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/req/OutboundCallReq.java" timestamp="1510028009781">
@@ -490,8 +490,8 @@
         <mark key="[" line="80" column="15" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/argus/dao/model/CallRecordInfo.java" timestamp="1510294149857" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/local/config-db.properties" timestamp="1512613617602">
-        <mark key="[" line="38" column="0" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/local/config-db.properties" timestamp="1512998763819">
+        <mark key="[" line="32" column="9" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/sql/return_visit_info" timestamp="1510119895256">
         <mark key="[" line="14" column="2" />
