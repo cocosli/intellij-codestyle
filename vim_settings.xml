@@ -42,8 +42,8 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/client/XunfeiClient.java" timestamp="1507546814139">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/proxy/session/CacheHttpSession.java" timestamp="1513151986451">
-        <mark key="[" line="40" column="16" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/proxy/session/CacheHttpSession.java" timestamp="1513156870094">
+        <mark key="[" line="50" column="16" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/model/ReqUserPojo.java" timestamp="1510539943769">
         <mark key="[" line="11" column="16" />
@@ -159,9 +159,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/applicationContext.xml" timestamp="1503043038365">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-db.xml" timestamp="1513152108528">
-        <mark key="[" line="94" column="0" />
-      </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-db.xml" timestamp="1513157396667" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/CustomerServiceServiceImpl.java" timestamp="1512964210124">
         <mark key="[" line="104" column="12" />
       </file>
@@ -171,8 +169,8 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/req/OutboundCallReq.java" timestamp="1510028009781">
         <mark key="[" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/proxy/session/TerryHttpServletRequestWrapper.java" timestamp="1513151208143">
-        <mark key="[" line="18" column="0" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/proxy/session/TerryHttpServletRequestWrapper.java" timestamp="1513156620594">
+        <mark key="[" line="53" column="38" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/dao/mapper/ServicePersonInfoMapper.java" timestamp="1508395652455">
         <mark key="[" line="37" column="32" />
@@ -410,7 +408,7 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/test/java/com/baidu/codemaster2/service/HouseServiceImplTest.java" timestamp="1504000746659">
         <mark key="[" line="44" column="2" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/filter/AdapterSessionFilter.java" timestamp="1513151963868">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/filter/AdapterSessionFilter.java" timestamp="1513157288583">
         <mark key="[" line="28" column="8" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/callcloud/ICSOutcallResult.java" timestamp="1511764137974">
@@ -435,8 +433,8 @@
       <file name="$USER_HOME$/company/proj/callcloud/sql/call_record_info" timestamp="1510728338305">
         <mark key="[" line="12" column="75" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/webapp/WEB-INF/web.xml" timestamp="1512537425657">
-        <mark key="[" line="44" column="20" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/webapp/WEB-INF/web.xml" timestamp="1513157410744">
+        <mark key="[" line="4" column="29" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/ics/ICSOutcallReq.java" timestamp="1510119333221">
         <mark key="[" line="22" column="36" />
@@ -481,6 +479,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/interceptor/ApiWhiteListInterceptor.java" timestamp="1510563397754">
         <mark key="[" line="33" column="20" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.9.RELEASE/spring-data-redis-1.8.9.RELEASE.jar!/org/springframework/data/redis/listener/RedisMessageListenerContainer.class" timestamp="1513157053940" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/MD5Util.java" timestamp="1512644697105">
         <mark key="[" line="101" column="4" />
       </file>
