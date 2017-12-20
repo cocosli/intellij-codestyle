@@ -53,7 +53,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/model/ReqUserPojo.java" timestamp="1510539943769">
         <mark key="[" line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/src/main/java/com/baidu/rim/housemortgage/common/constants/Constants.java" timestamp="1513677668302">
+      <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/src/main/java/com/baidu/rim/housemortgage/common/constants/Constants.java" timestamp="1513739191105">
         <mark key="[" line="132" column="14" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/ICustomerServiceService.java" timestamp="1510286070750">
@@ -86,8 +86,14 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/CurrentUserController.java" timestamp="1512625022002">
         <mark key="[" line="169" column="46" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/it.01.properties" timestamp="1513738834430">
+        <mark key="[" line="275" column="56" />
+      </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/generator-config.xml" timestamp="1507880275172">
         <mark key="[" line="145" column="92" />
+      </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/it.base.properties" timestamp="1513739581243">
+        <mark key="[" line="229" column="55" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/dao/model/CallRecordInfo.java" timestamp="1510120219073">
         <mark key="[" line="114" column="16" />
@@ -255,7 +261,7 @@
         <mark key="[" line="42" column="59" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/DesUtils.java" timestamp="1513063996602" />
-      <file name="/Dummy.txt" timestamp="1513736512072">
+      <file name="/Dummy.txt" timestamp="1513739326342">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/sql/phone_info" timestamp="1510101852533">
@@ -392,7 +398,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/dao/mapper/ReturnVisitInfoMapper.java" timestamp="1510194552478">
         <mark key="[" line="22" column="47" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/profiles/cloud.properties" timestamp="1513677762201">
+      <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/profiles/cloud.properties" timestamp="1513739486606">
         <mark key="[" line="68" column="56" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/pom.xml" timestamp="1507686881339">
@@ -498,9 +504,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/ServicePersonDao.java" timestamp="1510231508064">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/cloud.properties" timestamp="1513737593360">
-        <mark key="[" line="297" column="35" />
-      </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/cloud.properties" timestamp="1513739591420" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/generator.properties" timestamp="1507715368109">
         <mark key="[" line="0" column="0" />
       </file>
