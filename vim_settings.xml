@@ -135,7 +135,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/conf/dev/dev.properties" timestamp="1507689302140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/interceptor/PermissionInterceptor.java" timestamp="1513677431221">
+      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/interceptor/PermissionInterceptor.java" timestamp="1513741374092">
         <mark key="[" line="78" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/RedisDistributeLockCao.java" timestamp="1511231142520">
@@ -368,7 +368,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/BCLOUD" timestamp="1513039147376">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/constants/ApsMisConstants.java" timestamp="1513675641730">
+      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/constants/ApsMisConstants.java" timestamp="1513740628770">
         <mark key="[" line="258" column="4" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/src/main/java/com/baidu/rim/housemortgage/interceptor/PermissionInterceptor.java" timestamp="1513678535539">
@@ -504,7 +504,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/ServicePersonDao.java" timestamp="1510231508064">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/cloud.properties" timestamp="1513739591420" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/cloud.properties" timestamp="1513740641517" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/generator.properties" timestamp="1507715368109">
         <mark key="[" line="0" column="0" />
       </file>
