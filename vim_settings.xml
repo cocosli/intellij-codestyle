@@ -135,9 +135,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/conf/dev/dev.properties" timestamp="1507689302140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/interceptor/PermissionInterceptor.java" timestamp="1513765063012">
-        <mark key="[" line="79" column="20" />
-      </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/interceptor/PermissionInterceptor.java" timestamp="1513765063012" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/RedisDistributeLockCao.java" timestamp="1511231142520">
         <mark key="[" line="47" column="4" />
       </file>
@@ -508,9 +506,6 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/pom.xml" timestamp="1513655282789" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/ServicePersonDao.java" timestamp="1510231508064">
         <mark key="[" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/cloud.properties" timestamp="1513766150736">
-        <mark key="[" line="291" column="79" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/generator.properties" timestamp="1507715368109">
         <mark key="[" line="0" column="0" />
