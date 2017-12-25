@@ -290,7 +290,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/permission/RoleUser.java" timestamp="1510911381510">
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-mvc.xml" timestamp="1513060356590">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-mvc.xml" timestamp="1514168928130">
         <mark key="[" line="21" column="64" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/mapper/RoleMapper.java" timestamp="1513927884414" />
@@ -396,7 +396,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/dao/ArgApproveDao.java" timestamp="1509420659601">
         <mark key="[" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/interceptor/ResourcePermissionInterceptor.java" timestamp="1512975587391">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/interceptor/ResourcePermissionInterceptor.java" timestamp="1514169192615">
         <mark key="[" line="38" column="25" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/util/CommonTools.java" timestamp="1510029026298">
