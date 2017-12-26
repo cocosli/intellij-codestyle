@@ -142,7 +142,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/conf/dev/dev.properties" timestamp="1507689302140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/interceptor/PermissionInterceptor.java" timestamp="1514186665815">
+      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/interceptor/PermissionInterceptor.java" timestamp="1514288057488">
         <mark key="[" line="88" column="16" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/RedisDistributeLockCao.java" timestamp="1511231142520">
@@ -419,7 +419,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/pom.xml" timestamp="1507686881339">
         <mark key="[" line="101" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/baidu/fbu/common/common/1.1.1/common-1.1.1.jar!/com/baidu/fbu/common/util/RemoteUtil.class" timestamp="1513755054207" />
+      <file name="$MAVEN_REPOSITORY$/com/baidu/fbu/common/common/1.1.1/common-1.1.1.jar!/com/baidu/fbu/common/util/RemoteUtil.class" timestamp="1514288068534" />
       <file name="$MAVEN_REPOSITORY$/com/baidu/fbu/common/common/1.1.143/common-1.1.143.jar!/com/baidu/fbu/common/util/RemoteUtil.class" timestamp="1513932598425" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/webapp/index.html" timestamp="1510125197573">
         <mark key="[" line="38" column="71" />
