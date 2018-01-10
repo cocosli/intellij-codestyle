@@ -55,6 +55,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/client/XunfeiClient.java" timestamp="1507546814139">
         <mark key="[" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/ICSCallCloudException.java" timestamp="1515554079260" />
       <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/profiles/test.properties" timestamp="1514528981824">
         <mark key="[" line="71" column="27" />
       </file>
@@ -196,7 +197,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/profiles/it.base.properties" timestamp="1514531514314">
         <mark key="[" line="69" column="15" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/CustomerServiceServiceImpl.java" timestamp="1512964210124">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/CustomerServiceServiceImpl.java" timestamp="1515553516836">
         <mark key="[" line="104" column="12" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/dev/config-db.properties" timestamp="1514448285054">
@@ -319,7 +320,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-mvc.xml" timestamp="1514168928130">
         <mark key="[" line="21" column="64" />
       </file>
-      <file name="/fragment.java" timestamp="1512530517659">
+      <file name="/fragment.java" timestamp="1515553765642">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/api/AbstractApiHandler.java" timestamp="1510108102529">
@@ -371,8 +372,11 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/callcloud/ICSTelCallbackInfo.java" timestamp="1511233994087">
         <mark key="[" line="30" column="74" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/controller/CustomerServiceController.java" timestamp="1515491347118">
-        <mark key="[" line="43" column="0" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/controller/CustomerServiceController.java" timestamp="1515553716099">
+        <mark key="[" line="67" column="95" />
+      </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/constants/ICSExceptionCodeMap.java" timestamp="1515554245787">
+        <mark key="[" line="5" column="32" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/mapper/PhoneInfoMapper.xml" timestamp="1508382654086">
         <mark key="[" line="100" column="66" />
@@ -514,6 +518,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/callcloud/ICSOutcallResult.java" timestamp="1511764137974">
         <mark key="[" line="6" column="26" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/CommonException.java" timestamp="1515553995454" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/UUIDUtil.java" timestamp="1510280126853">
         <mark key="[" line="8" column="0" />
       </file>
