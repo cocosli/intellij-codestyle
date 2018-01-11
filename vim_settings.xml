@@ -278,8 +278,8 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/ics/ICSTelCallbackInfo.java" timestamp="1510121222143">
         <mark key="[" line="228" column="2" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/callcloud/ICSCallCloudProxy.java" timestamp="1515638388895">
-        <mark key="[" line="40" column="0" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/callcloud/ICSCallCloudProxy.java" timestamp="1515655139898">
+        <mark key="[" line="67" column="15" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis-deploy/apsmis-house-mortgage/init/it.base.sh" timestamp="1514528478567">
         <mark key="[" line="36" column="0" />
@@ -467,8 +467,8 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/webapp/index.html" timestamp="1510125197573">
         <mark key="[" line="38" column="71" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/exception/ICSExceptionEnum.java" timestamp="1515652290470">
-        <mark key="[" line="7" column="51" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/exception/ICSExceptionEnum.java" timestamp="1515655221887">
+        <mark key="[" line="6" column="4" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/pom.xml" timestamp="1513166504296">
         <mark key="[" line="308" column="12" />
@@ -516,7 +516,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/argus/dao/ReturnVisitDao.java" timestamp="1510295606490">
         <mark key="[" line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/permission/PermissionProxy.java" timestamp="1515578502671">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/permission/PermissionProxy.java" timestamp="1515654677501">
         <mark key="[" line="246" column="28" />
       </file>
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/test/java/com/baidu/codemaster2/service/HouseServiceImplTest.java" timestamp="1504000746659">
