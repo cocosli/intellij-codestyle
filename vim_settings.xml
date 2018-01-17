@@ -132,6 +132,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session-data-redis/1.3.1.RELEASE/spring-session-data-redis-1.3.1.RELEASE.pom" timestamp="1513002243753">
         <mark key="[" line="68" column="20" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/dev.properties" timestamp="1516179258578" />
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/utils/UUIDUtil.java" timestamp="1513146173107">
         <mark key="[" line="16" column="0" />
       </file>
@@ -251,8 +252,8 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/test/java/com/baidu/codemaster2/dao/HouseDAOImplTest.java" timestamp="1503999656061">
         <mark key="[" line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/cloud.properties" timestamp="1516158778900">
-        <mark key="[" line="23" column="22" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/cloud.properties" timestamp="1516179315959">
+        <mark key="[" line="24" column="22" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/ArgTelephoneAuditServiceImpl.java" timestamp="1515997365869">
         <mark key="[" line="65" column="0" />
@@ -513,7 +514,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/argus/dao/ReturnVisitDao.java" timestamp="1510295606490">
         <mark key="[" line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/permission/PermissionProxy.java" timestamp="1516174900502">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/permission/PermissionProxy.java" timestamp="1516178873594">
         <mark key="[" line="76" column="25" />
         <mark key="]" line="67" column="19" />
         <mark key="." line="67" column="19" />
@@ -534,7 +535,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/init/prod.base.sh" timestamp="1513064789932">
         <mark key="[" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/constants/ArgusConstants.java" timestamp="1516088695742" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/constants/ArgusConstants.java" timestamp="1516178517572" />
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/interceptor/WhiteListInterceptor.java" timestamp="1510563451418">
         <mark key="[" line="54" column="16" />
       </file>
