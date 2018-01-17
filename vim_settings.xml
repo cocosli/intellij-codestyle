@@ -89,7 +89,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/webapp/page/productInfo.html" timestamp="1515548316576">
         <mark key="[" line="245" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/UserService.java" timestamp="1516088659652">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/UserService.java" timestamp="1516170903205">
         <mark key="[" line="118" column="69" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/CurrentUserController.java" timestamp="1514171379071">
@@ -209,7 +209,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/src/main/webapp/page/order/orderSubmitPatch.html" timestamp="1514532351028">
         <mark key="[" line="59" column="8" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/filter/AdapterFilter.java" timestamp="1516161305607">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/filter/AdapterFilter.java" timestamp="1516169286411">
         <mark key="[" line="105" column="47" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/util/GaiaUtil.java" timestamp="1506480921472">
@@ -306,6 +306,7 @@
       <file name="/Class.txt.ft" timestamp="1507881261951">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/RoleService.java" timestamp="1516170962332" />
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/cloud1.properties" timestamp="1513736645857">
         <mark key="[" line="294" column="28" />
       </file>
@@ -512,7 +513,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/argus/dao/ReturnVisitDao.java" timestamp="1510295606490">
         <mark key="[" line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/permission/PermissionProxy.java" timestamp="1516161167703">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/permission/PermissionProxy.java" timestamp="1516170131361">
         <mark key="[" line="67" column="19" />
         <mark key="]" line="67" column="19" />
         <mark key="." line="67" column="19" />
