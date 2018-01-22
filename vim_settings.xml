@@ -19,6 +19,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/ReturnVisitDao.java" timestamp="1510308666869">
         <mark key="[" line="60" column="22" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/template/ext/spring-redis.xml" timestamp="1516589775015" />
       <file name="$USER_HOME$/company/proj/httpapi/sql/phone_info" timestamp="1507538326368">
         <mark key="[" line="0" column="19" />
       </file>
@@ -38,7 +39,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/mybatis-config.xml" timestamp="1507689154780">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/resources/ext/spring-mvc.xml" timestamp="1515481887028">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/resources/ext/spring-mvc.xml" timestamp="1516589825544">
         <mark key="[" line="55" column="65" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-uuap.xml" timestamp="1514356759027">
