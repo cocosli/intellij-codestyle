@@ -513,8 +513,8 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/model/ReturnVisitInfo.java" timestamp="1510305818544">
         <mark key="[" line="143" column="30" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/model/req/OutboundCallReq.java" timestamp="1510909592308">
-        <mark key="[" line="10" column="30" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/model/req/OutboundCallReq.java" timestamp="1516763599502">
+        <mark key="[" line="12" column="24" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/mapper/ArgTelephoneAuditMapper.java" timestamp="1515739741925">
         <mark key="[" line="41" column="55" />
