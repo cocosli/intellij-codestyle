@@ -230,6 +230,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/callcloud/ICSOutcallReq.java" timestamp="1510287943945">
         <mark key="[" line="6" column="32" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/api/BosHttpServerController.java" timestamp="1516938425414" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/resources/mapper/CallRecordInfoMapper.xml" timestamp="1510555469576">
         <mark key="[" line="20" column="78" />
       </file>
@@ -549,6 +550,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/sql/call_record_info" timestamp="1510728338305">
         <mark key="[" line="12" column="75" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/controller/LiveStaticController.java" timestamp="1516938598519" />
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/webapp/WEB-INF/web.xml" timestamp="1514356812475">
         <mark key="[" line="4" column="29" />
       </file>
@@ -570,6 +572,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/ObjectUtil.java" timestamp="1510231758773">
         <mark key="[" line="0" column="32" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/api/ArgusDataController.java" timestamp="1516938491141" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/api/ApiCode.java" timestamp="1510029606515">
         <mark key="[" line="0" column="27" />
       </file>
