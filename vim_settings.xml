@@ -203,7 +203,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/profiles/it.base.properties" timestamp="1514531514314">
         <mark key="[" line="69" column="15" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/CustomerServiceServiceImpl.java" timestamp="1517899443655">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/CustomerServiceServiceImpl.java" timestamp="1517900940865">
         <mark key="[" line="363" column="6" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/dev/config-db.properties" timestamp="1514448285054">
@@ -270,7 +270,7 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/test/java/com/baidu/codemaster2/dao/HouseDAOImplTest.java" timestamp="1503999656061">
         <mark key="[" line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/cloud.properties" timestamp="1517893650348">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/cloud.properties" timestamp="1517901351437">
         <mark key="[" line="93" column="39" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/ArgTelephoneAuditServiceImpl.java" timestamp="1517283582234">
@@ -431,7 +431,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis-deploy/apsmis-house-mortgage/init/prod.base.sh" timestamp="1516271261414">
         <mark key="[" line="82" column="41" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/job/AutoTransferAudioJob.java" timestamp="1517898839827">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/job/AutoTransferAudioJob.java" timestamp="1517900713442">
         <mark key="[" line="86" column="91" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/proxy/session/SessionConfig.java" timestamp="1513840503919">
@@ -452,7 +452,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/api/UserApi.java" timestamp="1512110119860">
         <mark key="[" line="37" column="42" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/test.properties" timestamp="1517205850452">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/test.properties" timestamp="1517900211275">
         <mark key="[" line="145" column="20" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/press.properties" timestamp="1516265269847">
@@ -539,7 +539,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/dao/PhoneDao.java" timestamp="1508382444805">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/objectstore/ObjectStoreProxyImpl.java" timestamp="1517372022462">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/objectstore/ObjectStoreProxyImpl.java" timestamp="1517901903024">
         <mark key="[" line="223" column="4" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/pom.xml" timestamp="1513735275964">
