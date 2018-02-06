@@ -309,6 +309,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/ArgTelephoneAuditService.java" timestamp="1515740804528">
         <mark key="[" line="42" column="59" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/src/main/java/com/baidu/rim/housemortgage/dao/HouseInfoDao.java" timestamp="1517916999775" />
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/dev.qa.properties" timestamp="1515054098901">
         <mark key="[" line="277" column="28" />
       </file>
@@ -400,6 +401,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/mapper/phoneMapper.xml" timestamp="1508231916318">
         <mark key="[" line="27" column="7" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/src/main/resources/mapper/HouseInfoMapper.xml" timestamp="1517917184635" />
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/dao/model/ServicePersonInfo.java" timestamp="1507530670890">
         <mark key="[" line="3" column="0" />
       </file>
@@ -434,6 +436,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis-deploy/apsmis-house-mortgage/init/prod.base.sh" timestamp="1516271261414">
         <mark key="[" line="82" column="41" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/src/main/java/com/baidu/rim/housemortgage/api/ReservationApi.java" timestamp="1517917452984" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/job/AutoTransferAudioJob.java" timestamp="1517910935503">
         <mark key="[" line="90" column="91" />
       </file>
