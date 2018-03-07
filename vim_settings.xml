@@ -203,7 +203,7 @@
         <mark key="[" line="141" column="27" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/interceptor/BinaryWhiteListInterceptor.java" timestamp="1520405870394" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/profiles/it.base.properties" timestamp="1514531514314">
+      <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/profiles/it.base.properties" timestamp="1520416109541">
         <mark key="[" line="69" column="15" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/controller/ApsRiskOrderCheckController.java" timestamp="1519807250514" />
@@ -480,8 +480,8 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/dao/mapper/ReturnVisitInfoMapper.java" timestamp="1510194552478">
         <mark key="[" line="22" column="47" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/profiles/cloud.properties" timestamp="1516092410177">
-        <mark key="[" line="82" column="27" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/profiles/cloud.properties" timestamp="1520415791289">
+        <mark key="[" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/pom.xml" timestamp="1507686881339">
         <mark key="[" line="101" column="0" />
@@ -558,7 +558,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/interceptor/WhiteListInterceptor.java" timestamp="1510563451418">
         <mark key="[" line="54" column="16" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/profiles/dev.properties" timestamp="1516085343527">
+      <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/profiles/dev.properties" timestamp="1520415435766">
         <mark key="[" line="71" column="20" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/model/CallResult.java" timestamp="1507619464358">
