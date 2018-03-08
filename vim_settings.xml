@@ -204,6 +204,12 @@
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/interceptor/BinaryWhiteListInterceptor.java" timestamp="1520405870394" />
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/controller/ApsRiskOrderCheckController.java" timestamp="1519807250514" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/CustomerServiceServiceImpl.java" timestamp="1520502301401">
+        <mark key="[" line="294" column="4" />
+        <mark key="]" line="81" column="18" />
+        <mark key="." line="81" column="18" />
+        <mark key="^" line="81" column="18" />
+      </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/dev/config-db.properties" timestamp="1514448285054">
         <mark key="[" line="35" column="22" />
       </file>
@@ -338,7 +344,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/proxy/session/HttpSessionWrapper.java" timestamp="1513149259950">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/src/main/java/com/baidu/rim/housemortgage/common/util/Permission.java" timestamp="1520476522708" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/src/main/java/com/baidu/rim/housemortgage/common/util/Permission.java" timestamp="1520502194467" />
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/it.03.properties" timestamp="1515054039432">
         <mark key="[" line="287" column="28" />
       </file>
