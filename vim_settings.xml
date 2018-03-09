@@ -6,6 +6,7 @@
       <file name="/a.dummy" timestamp="1515555245676">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/job/AutoApproveRefuseJob.java" timestamp="1520580379665" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/controller/ApproveController.java" timestamp="1520306229661" />
       <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/pom.xml" timestamp="1513822991366">
         <mark key="[" line="593" column="12" />
@@ -397,10 +398,11 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/webapp/WEB-INF/web.xml" timestamp="1510214599729">
         <mark key="[" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/api/CustomerServiceAPI.java" timestamp="1520492642077">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/api/CustomerServiceAPI.java" timestamp="1520580440896">
         <mark key="[" line="52" column="80" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/controller/ApproveManageController.java" timestamp="1520324642121" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/interceptor/LogInterceptor.java" timestamp="1520580511940" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/controller/TelAuditController.java" timestamp="1519611912436">
         <mark key="[" line="65" column="37" />
       </file>
@@ -415,7 +417,7 @@
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/controller/BusinessQueryController.java" timestamp="1520498656728" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/prod.properties" timestamp="1520405281443" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/job/AutoTransferAudioJob.java" timestamp="1520473691998">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/job/AutoTransferAudioJob.java" timestamp="1520580100704">
         <mark key="[" line="67" column="100" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/proxy/session/SessionConfig.java" timestamp="1513840503919">
