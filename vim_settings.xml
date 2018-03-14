@@ -15,7 +15,7 @@
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/interceptor/BinaryWhiteListInterceptor.java" timestamp="1520405870394" />
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/controller/ApsRiskOrderCheckController.java" timestamp="1519807250514" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/CustomerServiceServiceImpl.java" timestamp="1520502301401">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/CustomerServiceServiceImpl.java" timestamp="1520998904847">
         <mark key="[" line="294" column="4" />
         <mark key="]" line="81" column="18" />
         <mark key="." line="81" column="18" />
@@ -43,7 +43,7 @@
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/controller/BusinessQueryController.java" timestamp="1520498656728" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/prod.properties" timestamp="1520405281443" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/job/AutoTransferAudioJob.java" timestamp="1520580100704">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/job/AutoTransferAudioJob.java" timestamp="1520998438033">
         <mark key="[" line="67" column="100" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/src/main/java/com/baidu/rim/housemortgage/interceptor/PermissionInterceptor.java" timestamp="1520413870339">
@@ -53,6 +53,9 @@
         <mark key="[" line="286" column="7" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/BusinessQueryFromDbServiceImpl.java" timestamp="1520498404237" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/objectstore/ObjectStoreProxyImpl.java" timestamp="1520998776565">
+        <mark key="[" line="223" column="4" />
+      </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/permission/PermissionProxy.java" timestamp="1520405381748">
         <mark key="[" line="183" column="46" />
       </file>
