@@ -15,7 +15,7 @@
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/interceptor/BinaryWhiteListInterceptor.java" timestamp="1520405870394" />
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/controller/ApsRiskOrderCheckController.java" timestamp="1519807250514" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/CustomerServiceServiceImpl.java" timestamp="1520998904847">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/CustomerServiceServiceImpl.java" timestamp="1520999909914">
         <mark key="[" line="294" column="4" />
         <mark key="]" line="81" column="18" />
         <mark key="." line="81" column="18" />
@@ -49,6 +49,8 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/src/main/java/com/baidu/rim/housemortgage/interceptor/PermissionInterceptor.java" timestamp="1520413870339">
         <mark key="[" line="85" column="46" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/baidubce/bce-java-sdk/0.10.6/bce-java-sdk-0.10.6-sources.jar!/com/baidubce/services/bos/BosClient.java" timestamp="1520999792277" />
+      <file name="$MAVEN_REPOSITORY$/com/baidubce/bce-java-sdk/0.10.6/bce-java-sdk-0.10.6-sources.jar!/com/baidubce/services/bos/model/ObjectMetadata.java" timestamp="1520999751939" />
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/prod.properties" timestamp="1520822281617">
         <mark key="[" line="286" column="7" />
       </file>
