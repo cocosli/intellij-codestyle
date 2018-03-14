@@ -21,7 +21,7 @@
         <mark key="." line="81" column="18" />
         <mark key="^" line="81" column="18" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/cloud.properties" timestamp="1520405196857" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/cloud.properties" timestamp="1521009794654" />
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/MenuTreeService.java" timestamp="1520997548267" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/template/config.properties" timestamp="1520406793788">
         <mark key="[" line="76" column="47" />
@@ -55,7 +55,7 @@
         <mark key="[" line="286" column="7" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/BusinessQueryFromDbServiceImpl.java" timestamp="1520498404237" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/objectstore/ObjectStoreProxyImpl.java" timestamp="1521007956906">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/objectstore/ObjectStoreProxyImpl.java" timestamp="1521009514094">
         <mark key="[" line="251" column="4" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/permission/PermissionProxy.java" timestamp="1520405381748">
