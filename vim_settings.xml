@@ -23,7 +23,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/sql/phone_info" timestamp="1507538326368">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/base/Preconditions.java" timestamp="1521012452239" />
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/base/Preconditions.java" timestamp="1521017001507" />
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/prepare.properties" timestamp="1515054063994">
         <mark key="[" line="283" column="28" />
       </file>
@@ -209,7 +209,8 @@
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/interceptor/BinaryWhiteListInterceptor.java" timestamp="1520405870394" />
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/controller/ApsRiskOrderCheckController.java" timestamp="1519807250514" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/CustomerServiceServiceImpl.java" timestamp="1521016388818">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/CustomerServiceServiceImpl.java" timestamp="1521017234879">
+        <mark key="'" line="235" column="16" />
         <mark key="[" line="230" column="82" />
         <mark key="]" line="81" column="18" />
         <mark key="." line="81" column="18" />
@@ -666,6 +667,7 @@
       <jump line="74" column="45" filename="$USER_HOME$/company/proj/baidu/rim/house-mortgage/src/main/java/com/baidu/rim/housemortgage/dao/IndexDispenseLogDao.java" />
       <jump line="111" column="47" filename="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/job/AutoTransferAudioJob.java" />
       <jump line="110" column="4" filename="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/job/AutoTransferAudioJob.java" />
+      <jump line="233" column="16" filename="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/CustomerServiceServiceImpl.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
