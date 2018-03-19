@@ -94,7 +94,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/UserService.java" timestamp="1516170903205">
         <mark key="[" line="118" column="69" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/CurrentUserController.java" timestamp="1521191290369">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/CurrentUserController.java" timestamp="1521427064691">
         <mark key="[" line="169" column="46" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/it.01.properties" timestamp="1515053985839">
@@ -209,7 +209,7 @@
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/interceptor/BinaryWhiteListInterceptor.java" timestamp="1520405870394" />
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/controller/ApsRiskOrderCheckController.java" timestamp="1519807250514" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/CustomerServiceServiceImpl.java" timestamp="1521193538761">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/CustomerServiceServiceImpl.java" timestamp="1521427086591">
         <mark key="'" line="236" column="16" />
         <mark key="[" line="231" column="82" />
         <mark key="]" line="82" column="18" />
