@@ -17,6 +17,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/controller/BaseController.java" timestamp="1503457210413">
         <mark key="[" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/ProjectController.java" timestamp="1521623961436" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/ReturnVisitDao.java" timestamp="1510308666869">
         <mark key="[" line="60" column="22" />
       </file>
@@ -472,6 +473,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/interceptor/ResourcePermissionInterceptor.java" timestamp="1515567376711">
         <mark key="[" line="38" column="25" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/RoleController.java" timestamp="1521623984021" />
       <file name="$MAVEN_REPOSITORY$/com/baidubce/bce-java-sdk/0.10.6/bce-java-sdk-0.10.6-sources.jar!/com/baidubce/services/bos/BosClient.java" timestamp="1520999792277" />
       <file name="$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.5/commons-lang-2.5-sources.jar!/org/apache/commons/lang/StringUtils.java" timestamp="1521021766036" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/util/CommonTools.java" timestamp="1510029026298">
@@ -524,6 +526,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/model/req/OutboundCallReq.java" timestamp="1516764782725">
         <mark key="[" line="12" column="24" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/MenuService.java" timestamp="1521623876655" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/mapper/ArgTelephoneAuditMapper.java" timestamp="1517384152447">
         <mark key="[" line="49" column="66" />
       </file>
@@ -653,6 +656,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/MD5Util.java" timestamp="1512644697105">
         <mark key="[" line="101" column="4" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/MenuParentController.java" timestamp="1521623889079" />
       <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/ApplicationContext.xml" timestamp="1504491595538">
         <mark key="[" line="7" column="74" />
       </file>
