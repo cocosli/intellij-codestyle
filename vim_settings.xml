@@ -123,7 +123,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/ArgTelePhoneAuditDao.java" timestamp="1517384373530">
         <mark key="[" line="63" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/holmes/HolmesProxy.java" timestamp="1521709996539" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/holmes/HolmesProxy.java" timestamp="1521712659385" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/spring-config/ApplicationContext-db.xml" timestamp="1510103071459">
         <mark key="[" line="20" column="59" />
       </file>
@@ -285,6 +285,9 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/cloud.properties" timestamp="1521703351695">
         <mark key="[" line="134" column="46" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/HolmesService.java" timestamp="1521712753441">
+        <mark key="[" line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/ArgTelephoneAuditServiceImpl.java" timestamp="1517283582234">
         <mark key="[" line="65" column="0" />
       </file>
@@ -383,6 +386,9 @@
         <mark key="[" line="54" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/entity/UserEntity.java" timestamp="1520995928708" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/controller/HolmesController.java" timestamp="1521713011153">
+        <mark key="[" line="61" column="4" />
+      </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/CallCloudMd5Util.java" timestamp="1510304369311">
         <mark key="[" line="21" column="53" />
       </file>
@@ -600,6 +606,9 @@
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/ics/ICSOutcallReq.java" timestamp="1510119333221">
         <mark key="[" line="22" column="36" />
+      </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/HolmesServiceImpl.java" timestamp="1521712810671">
+        <mark key="[" line="64" column="4" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/conf/dev/dev.properties" timestamp="1510134493922">
         <mark key="[" line="26" column="53" />
