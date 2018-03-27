@@ -125,7 +125,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/ArgTelePhoneAuditDao.java" timestamp="1517384373530">
         <mark key="[" line="63" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/holmes/HolmesProxy.java" timestamp="1522123627108" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/holmes/HolmesProxy.java" timestamp="1522134392914" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/spring-config/ApplicationContext-db.xml" timestamp="1510103071459">
         <mark key="[" line="20" column="59" />
       </file>
@@ -199,7 +199,9 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/CallResult.java" timestamp="1510192411682">
         <mark key="[" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/HttpUtil.java" timestamp="1522123445949" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/HttpUtil.java" timestamp="1522134558816">
+        <mark key="[" line="107" column="10" />
+      </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/app/html/uploadBosErrorList.template.html" timestamp="1515478583028">
         <mark key="[" line="25" column="6" />
       </file>
@@ -227,8 +229,8 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/req/OutboundCallReq.java" timestamp="1510028009781">
         <mark key="[" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/holmes/HolmesWrap.java" timestamp="1521802107317">
-        <mark key="[" line="8" column="22" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/holmes/HolmesWrap.java" timestamp="1522131468904">
+        <mark key="[" line="9" column="25" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/proxy/session/TerryHttpServletRequestWrapper.java" timestamp="1513156620594">
         <mark key="[" line="53" column="38" />
@@ -588,7 +590,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/init/prod.base.sh" timestamp="1521453739870">
         <mark key="[" line="135" column="34" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/constants/ArgusConstants.java" timestamp="1522048939023">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/constants/ArgusConstants.java" timestamp="1522132764404">
         <mark key="[" line="138" column="35" />
         <mark key="]" line="135" column="25" />
         <mark key="^" line="135" column="25" />
