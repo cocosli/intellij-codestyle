@@ -125,7 +125,9 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/ArgTelePhoneAuditDao.java" timestamp="1517384373530">
         <mark key="[" line="63" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/holmes/HolmesProxy.java" timestamp="1522136329193" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/holmes/HolmesProxy.java" timestamp="1522137246851">
+        <mark key="[" line="792" column="12" />
+      </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/spring-config/ApplicationContext-db.xml" timestamp="1510103071459">
         <mark key="[" line="20" column="59" />
       </file>
@@ -286,8 +288,8 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/test/java/com/baidu/codemaster2/dao/HouseDAOImplTest.java" timestamp="1503999656061">
         <mark key="[" line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/cloud.properties" timestamp="1522051140499">
-        <mark key="[" line="52" column="27" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/cloud.properties" timestamp="1522137185828">
+        <mark key="[" line="139" column="16" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/HolmesService.java" timestamp="1521801576984">
         <mark key="[" line="15" column="63" />
@@ -621,7 +623,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/ics/ICSOutcallReq.java" timestamp="1510119333221">
         <mark key="[" line="22" column="36" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/HolmesServiceImpl.java" timestamp="1522050486890">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/HolmesServiceImpl.java" timestamp="1522137741371">
         <mark key="[" line="73" column="83" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/conf/dev/dev.properties" timestamp="1510134493922">
@@ -718,22 +720,26 @@
       <jump line="111" column="47" filename="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/job/AutoTransferAudioJob.java" />
       <jump line="110" column="4" filename="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/job/AutoTransferAudioJob.java" />
       <jump line="233" column="16" filename="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/CustomerServiceServiceImpl.java" />
+      <jump line="792" column="0" filename="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/holmes/HolmesProxy.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgTWFwPFN0cmluZywgU2V0PFN0cmluZz4+IG9iaiA9IGhvbG1lc1NlcnZpY2UuZ2V0UmVtYXJrTWFwQnlQaG9uZShzZXNzaW9uSGFzaCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJldCA9IEh0dHBVdGlsLnBvc3RGb3JKc29uKEJhc2UuSE9MTUVTX1VSTCArICIvZ2V0UmVtYXJrTGlzdCIsIHJlcS50b1N0cmluZygpKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgTWFwPFN0cmluZywgU2V0PFN0cmluZz4+IG9iaiA9IGhvbG1lc1NlcnZpY2UuZ2V0UmVtYXJrTWFwQnlQaG9uZShzZXNzaW9uSGFzaCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>String ret = HttpUtil.postForJson(Base.HOLMES_U</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgTWFwPFN0cmluZywgU2V0PFN0cmluZz4+IG9iaiA9IGhvbG1lc1NlcnZpY2UuZ2V0UmVtYXJrTWFwQnlQaG9uZShzZXNzaW9uSGFzaCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBTRVQgI3tzZXJ2aWNlUGhvbmUsamRiY1R5cGU9VkFSQ0hBUn0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>String ret = HttpUtil.postForJson(Base.HOLMES_U</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2Vyc1w+</text>
