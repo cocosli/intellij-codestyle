@@ -45,7 +45,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/resources/ext/spring-mvc.xml" timestamp="1516589825544">
         <mark key="[" line="55" column="65" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-uuap.xml" timestamp="1514356759027">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-uuap.xml" timestamp="1522217906205">
         <mark key="[" line="19" column="2" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/ics/ICSOutcallResult.java" timestamp="1510036681232">
@@ -342,7 +342,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/model/ApiBody.java" timestamp="1507539850702">
         <mark key="[" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-mvc.xml" timestamp="1514168928130">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-mvc.xml" timestamp="1522216852593">
         <mark key="[" line="21" column="64" />
       </file>
       <file name="/fragment.java" timestamp="1517879294535">
@@ -453,7 +453,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/src/main/java/com/baidu/rim/housemortgage/interceptor/PermissionInterceptor.java" timestamp="1520413870339">
         <mark key="[" line="85" column="46" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/RolePermissionMapper.xml" timestamp="1522216422057" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/RolePermissionMapper.xml" timestamp="1522216504831" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/model/CallRecordInfo.java" timestamp="1511230191476">
         <mark key="[" line="145" column="66" />
       </file>
@@ -478,7 +478,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/it.02.properties" timestamp="1515054012455">
         <mark key="[" line="295" column="28" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/interceptor/ResourcePermissionInterceptor.java" timestamp="1515567376711">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/interceptor/ResourcePermissionInterceptor.java" timestamp="1522216733971">
         <mark key="[" line="38" column="25" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/util/CommonTools.java" timestamp="1510029026298">
@@ -586,7 +586,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/objectstore/ObjectStoreProxy.java" timestamp="1521011430112">
         <mark key="[" line="56" column="71" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/webapp/WEB-INF/web.xml" timestamp="1514356812475">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/webapp/WEB-INF/web.xml" timestamp="1522216912525">
         <mark key="[" line="4" column="29" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/ics/ICSOutcallReq.java" timestamp="1510119333221">
@@ -661,6 +661,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/MD5Util.java" timestamp="1512644697105">
         <mark key="[" line="101" column="4" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/MenuParentController.java" timestamp="1522216647950" />
       <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/ApplicationContext.xml" timestamp="1504491595538">
         <mark key="[" line="7" column="74" />
       </file>
