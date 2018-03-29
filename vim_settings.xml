@@ -213,8 +213,8 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/applicationContext.xml" timestamp="1503043038365">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/init/it.base.sh" timestamp="1521453734641">
-        <mark key="[" line="141" column="34" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/init/it.base.sh" timestamp="1522304840863">
+        <mark key="[" line="66" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/dev/config-db.properties" timestamp="1514448285054">
         <mark key="[" line="35" column="22" />
@@ -270,8 +270,8 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/RiskQuestionDao.java" timestamp="1516297312266">
         <mark key="[" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/init/test.base.sh" timestamp="1521454165157">
-        <mark key="[" line="125" column="34" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/init/test.base.sh" timestamp="1522304878288">
+        <mark key="[" line="63" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/profiles/it.02.properties" timestamp="1514528826646">
         <mark key="[" line="128" column="20" />
@@ -279,7 +279,7 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/test/java/com/baidu/codemaster2/dao/HouseDAOImplTest.java" timestamp="1503999656061">
         <mark key="[" line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/cloud.properties" timestamp="1522137185828">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/cloud.properties" timestamp="1522304529904">
         <mark key="[" line="139" column="16" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/HolmesService.java" timestamp="1521801576984">
@@ -351,8 +351,8 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/api/AbstractApiHandler.java" timestamp="1510108102529">
         <mark key="[" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/template/config.properties" timestamp="1521454116280">
-        <mark key="[" line="77" column="44" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/template/config.properties" timestamp="1522304803740">
+        <mark key="[" line="59" column="29" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/webapp/index.html" timestamp="1503393124956">
         <mark key="[" line="14" column="16" />
@@ -559,8 +559,11 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/UUIDUtil.java" timestamp="1510280126853">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/init/prod.base.sh" timestamp="1521453739870">
-        <mark key="[" line="135" column="34" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/init/prod.base.sh" timestamp="1522304827583">
+        <mark key="[" line="64" column="7" />
+        <mark key="]" line="64" column="7" />
+        <mark key="^" line="64" column="7" />
+        <mark key="." line="64" column="7" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/constants/ArgusConstants.java" timestamp="1522132764404">
         <mark key="[" line="138" column="35" />
@@ -643,8 +646,8 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/UserMapper.xml" timestamp="1514365095063">
         <mark key="[" line="156" column="15" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/init/sandbox_qa.base.sh" timestamp="1521453747209">
-        <mark key="[" line="113" column="34" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/init/sandbox_qa.base.sh" timestamp="1522304850147">
+        <mark key="[" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/interceptor/PermissionInterceptor.java" timestamp="1520498055011">
         <mark key="[" line="86" column="53" />
