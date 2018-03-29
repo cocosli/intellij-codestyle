@@ -381,7 +381,7 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/dao/HouseDAOImpl.java" timestamp="1504079639587">
         <mark key="[" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/controller/HolmesController.java" timestamp="1522141290668">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/controller/HolmesController.java" timestamp="1522306061528">
         <mark key="[" line="96" column="9" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/CallCloudMd5Util.java" timestamp="1510304369311">
@@ -558,12 +558,6 @@
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/UUIDUtil.java" timestamp="1510280126853">
         <mark key="[" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/init/prod.base.sh" timestamp="1522304827583">
-        <mark key="[" line="64" column="7" />
-        <mark key="]" line="64" column="7" />
-        <mark key="^" line="64" column="7" />
-        <mark key="." line="64" column="7" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/constants/ArgusConstants.java" timestamp="1522132764404">
         <mark key="[" line="138" column="35" />
