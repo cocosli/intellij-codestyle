@@ -81,6 +81,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/qa/config-db.properties" timestamp="1514448694986">
         <mark key="[" line="35" column="22" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/CurrentUserService.java" timestamp="1522658992321" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/req/HealthCheckReq.java" timestamp="1507690445885">
         <mark key="[" line="3" column="0" />
       </file>
@@ -90,10 +91,10 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/webapp/page/productInfo.html" timestamp="1515548316576">
         <mark key="[" line="245" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/UserService.java" timestamp="1522657319636">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/UserService.java" timestamp="1522658405329">
         <mark key="[" line="118" column="69" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/CurrentUserController.java" timestamp="1521536610548">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/CurrentUserController.java" timestamp="1522659063943">
         <mark key="[" line="169" column="46" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/it.01.properties" timestamp="1515053985839">
@@ -322,7 +323,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/dev.qa.properties" timestamp="1515054098901">
         <mark key="[" line="277" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522313861254">
+      <file name="/Dummy.txt" timestamp="1522659027313">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/sql/phone_info" timestamp="1510101852533">
@@ -632,7 +633,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/sql/return_visit_info" timestamp="1510119895256">
         <mark key="[" line="14" column="2" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/UserMapper.xml" timestamp="1514365095063">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/UserMapper.xml" timestamp="1522658367653">
         <mark key="[" line="156" column="15" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/init/sandbox_qa.base.sh" timestamp="1522304850147">
