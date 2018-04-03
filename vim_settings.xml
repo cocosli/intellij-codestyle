@@ -84,7 +84,9 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/qa/config-db.properties" timestamp="1514448694986">
         <mark key="[" line="35" column="22" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/CurrentUserService.java" timestamp="1522737387332" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/CurrentUserService.java" timestamp="1522744175364">
+        <mark key="[" line="135" column="106" />
+      </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/req/HealthCheckReq.java" timestamp="1507690445885">
         <mark key="[" line="3" column="0" />
       </file>
@@ -238,6 +240,7 @@
         <mark key="[" line="53" column="38" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/jasig/cas/client/cas-client-core/3.3.3/cas-client-core-3.3.3-sources.jar!/org/jasig/cas/client/session/SingleSignOutHttpSessionListener.java" timestamp="1522655467681" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/mapper/MenuMapper.java" timestamp="1522743093155" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/dao/mapper/ServicePersonInfoMapper.java" timestamp="1508395652455">
         <mark key="[" line="37" column="32" />
       </file>
@@ -274,6 +277,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/CustomerServiceService.java" timestamp="1510303551324">
         <mark key="[" line="35" column="12" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/MenuController.java" timestamp="1522744152948" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/holmes/HolmesRemarkReq.java" timestamp="1521703554910">
         <mark key="[" line="8" column="0" />
       </file>
@@ -331,7 +335,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/dev.qa.properties" timestamp="1515054098901">
         <mark key="[" line="277" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522724470731">
+      <file name="/Dummy.txt" timestamp="1522741755058">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/sql/phone_info" timestamp="1510101852533">
@@ -356,11 +360,17 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-mvc.xml" timestamp="1522392523748">
         <mark key="[" line="21" column="64" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/mapper/RoleMapper.java" timestamp="1522743544669">
+        <mark key="[" line="20" column="62" />
+      </file>
       <file name="/fragment.java" timestamp="1522725964009">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/api/AbstractApiHandler.java" timestamp="1510108102529">
         <mark key="[" line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/MenuTreeService.java" timestamp="1522743929907">
+        <mark key="[" line="42" column="4" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/template/config.properties" timestamp="1522313792333">
         <mark key="[" line="62" column="23" />
@@ -449,7 +459,9 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/proxy/session/SessionConfig.java" timestamp="1513840503919">
         <mark key="[" line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/RoleMapper.xml" timestamp="1522724462015" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/RoleMapper.xml" timestamp="1522744191013">
+        <mark key="[" line="170" column="32" />
+      </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/BCLOUD" timestamp="1513039147376">
         <mark key="[" line="0" column="0" />
       </file>
