@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/LoginController.java" timestamp="1522721204565">
+        <mark key="[" line="43" column="47" />
+      </file>
       <file name="/a.dummy" timestamp="1521689111582">
         <mark key="[" line="0" column="0" />
       </file>
@@ -181,6 +184,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/common/constant/CallType.java" timestamp="1509440788643">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/UuapService.java" timestamp="1522721140032" />
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/resources/predict-config.properties" timestamp="1503976187414">
         <mark key="[" line="0" column="3" />
       </file>
@@ -348,7 +352,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-mvc.xml" timestamp="1522392523748">
         <mark key="[" line="21" column="64" />
       </file>
-      <file name="/fragment.java" timestamp="1517879294535">
+      <file name="/fragment.java" timestamp="1522721185056">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/api/AbstractApiHandler.java" timestamp="1510108102529">
