@@ -84,7 +84,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/qa/config-db.properties" timestamp="1514448694986">
         <mark key="[" line="35" column="22" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/CurrentUserService.java" timestamp="1522746325954">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/CurrentUserService.java" timestamp="1522749022470">
         <mark key="[" line="135" column="106" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/req/HealthCheckReq.java" timestamp="1507690445885">
@@ -172,7 +172,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/test/java/proxy/TestProxyImpl.java" timestamp="1517906145149">
         <mark key="[" line="200" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/task/ClearDataTask.java" timestamp="1522746303420" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/task/ClearDataTask.java" timestamp="1522748737871" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/holmes/HolmesMsgInfo.java" timestamp="1521689225396">
         <mark key="[" line="6" column="0" />
       </file>
