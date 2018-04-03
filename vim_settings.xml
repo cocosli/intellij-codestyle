@@ -576,6 +576,9 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/callcloud/CallCloudClient.java" timestamp="1510282652507">
         <mark key="[" line="29" column="8" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/UserRoleMapper.xml" timestamp="1522723003646">
+        <mark key="[" line="5" column="47" />
+      </file>
       <file name="$USER_HOME$/company/proj/callcloud/sql/call_record_info" timestamp="1510728338305">
         <mark key="[" line="12" column="75" />
       </file>
@@ -618,6 +621,9 @@
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/ServicePersonDao.java" timestamp="1510231508064">
         <mark key="[" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/entity/UserRoleEntity.java" timestamp="1522722273439">
+        <mark key="[" line="5" column="4" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/generator.properties" timestamp="1507715368109">
         <mark key="[" line="0" column="0" />
