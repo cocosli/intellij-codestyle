@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/LoginController.java" timestamp="1523415006756" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/controller/ApproveController.java" timestamp="1523351952801">
         <mark key="[" line="158" column="51" />
       </file>
@@ -51,8 +52,9 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/LogoutController.java" timestamp="1523169156532">
         <mark key="[" line="63" column="59" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/common/ResultBody.java" timestamp="1523415236767" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/permission/RoleUser.java" timestamp="1523178276955" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-mvc.xml" timestamp="1523413978935">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-mvc.xml" timestamp="1523415350925">
         <mark key="[" line="21" column="64" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/PermissionService.java" timestamp="1523178514778" />
@@ -66,6 +68,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/RoleMapper.xml" timestamp="1523154782517">
         <mark key="[" line="170" column="23" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/RolePermissionMapper.xml" timestamp="1523416010254" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/it.01.properties" timestamp="1523346890977">
         <mark key="[" line="110" column="55" />
       </file>
@@ -73,12 +76,12 @@
         <mark key="[" line="183" column="46" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/constants/ArgusConstants.java" timestamp="1523178236456" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/UserRoleMapper.xml" timestamp="1523154857129">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/UserRoleMapper.xml" timestamp="1523416195465">
+        <mark key="[" line="61" column="22" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/common/JsonResult.java" timestamp="1523413600826" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/common/JsonResult.java" timestamp="1523415221735" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/controller/RiskInspectController.java" timestamp="1523243886635" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/UserMapper.xml" timestamp="1523354250753">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/UserMapper.xml" timestamp="1523416049331">
         <mark key="[" line="126" column="12" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/mapper/UserMapper.java" timestamp="1523354154461">
