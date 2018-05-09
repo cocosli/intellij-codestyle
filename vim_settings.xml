@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/LoginController.java" timestamp="1525762361796" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/LoginController.java" timestamp="1525833513325" />
       <file name="/a.dummy" timestamp="1521689111582">
         <mark key="[" line="0" column="0" />
       </file>
@@ -34,6 +34,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/mapper/ReturnVisitInfoMapper.java" timestamp="1510231726656">
         <mark key="[" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/interceptor/OpLogInterceptor.java" timestamp="1525834160039" />
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/model/HouseInfo.java" timestamp="1504079042127">
         <mark key="[" line="37" column="4" />
       </file>
@@ -127,7 +128,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/ArgTelePhoneAuditDao.java" timestamp="1525762063777">
         <mark key="[" line="63" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/OpLogMapper.xml" timestamp="1525831545588">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/OpLogMapper.xml" timestamp="1525834335806">
         <mark key="[" line="11" column="38" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/holmes/HolmesProxy.java" timestamp="1523947270899">
@@ -354,7 +355,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/misapi/MisApiClient.java" timestamp="1523588874343">
         <mark key="[" line="29" column="73" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/HistoryMapper.xml" timestamp="1525830990704" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/mybatis/HistoryMapper.xml" timestamp="1525833691318" />
       <file name="/Class.txt.ft" timestamp="1507881261951">
         <mark key="[" line="0" column="0" />
       </file>
@@ -370,7 +371,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/mapper/RoleMapper.java" timestamp="1524104282635">
         <mark key="[" line="18" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1523417144058">
+      <file name="/fragment.java" timestamp="1525833547016">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/api/AbstractApiHandler.java" timestamp="1510108102529">
@@ -436,7 +437,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/resources/mapper/phoneMapper.xml" timestamp="1508231916318">
         <mark key="[" line="27" column="7" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/logback.xml" timestamp="1525831623645" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/logback.xml" timestamp="1525833438041" />
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/dao/model/ServicePersonInfo.java" timestamp="1507530670890">
         <mark key="[" line="3" column="0" />
       </file>
