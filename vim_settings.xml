@@ -49,8 +49,8 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/resources/ext/spring-mvc.xml" timestamp="1523414217237">
         <mark key="[" line="55" column="65" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/OpLogService.java" timestamp="1525838216535">
-        <mark key="[" line="19" column="25" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/OpLogService.java" timestamp="1525846677910">
+        <mark key="[" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-uuap.xml" timestamp="1523958126880">
         <mark key="[" line="19" column="2" />
@@ -179,6 +179,9 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/test/java/proxy/TestProxyImpl.java" timestamp="1517906145149">
         <mark key="[" line="200" column="4" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/task/ClearDataTask.java" timestamp="1525846153647">
+        <mark key="[" line="26" column="41" />
+      </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/holmes/HolmesMsgInfo.java" timestamp="1521689225396">
         <mark key="[" line="6" column="0" />
       </file>
@@ -294,6 +297,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/init/test.base.sh" timestamp="1524713634629">
         <mark key="[" line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-quartz.xml" timestamp="1525846068862" />
       <file name="$USER_HOME$/company/proj/baidu/rim/house-mortgage/profiles/it.02.properties" timestamp="1514528826646">
         <mark key="[" line="128" column="20" />
       </file>
@@ -332,7 +336,7 @@
         <mark key="[" line="93" column="4" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/entity/OpLogEntity.java" timestamp="1525836864193">
-        <mark key="[" line="20" column="0" />
+        <mark key="[" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/sql/service_person_info" timestamp="1507619637633">
         <mark key="[" line="0" column="0" />
@@ -375,7 +379,7 @@
       <file name="$USER_HOME$/company/proj/httpapi/src/main/java/com/wen/ehekang/httpapi/model/ApiBody.java" timestamp="1507539850702">
         <mark key="[" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-mvc.xml" timestamp="1525838493726">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/spring/spring-mvc.xml" timestamp="1525845889020">
         <mark key="[" line="60" column="25" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/mapper/RoleMapper.java" timestamp="1524104282635">
@@ -686,7 +690,7 @@
         <mark key="[" line="86" column="4" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/ArgApproveServiceImpl.java" timestamp="1525337331238" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/constants/OpPathMap.java" timestamp="1525836405190">
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/constants/OpPathMap.java" timestamp="1525845998367">
         <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/webapp/js/public/react-dom.js" timestamp="1515478674292">
