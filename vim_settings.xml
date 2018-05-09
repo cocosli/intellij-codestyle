@@ -34,8 +34,8 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/mapper/ReturnVisitInfoMapper.java" timestamp="1510231726656">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/interceptor/OpLogInterceptor.java" timestamp="1525836102081">
-        <mark key="[" line="36" column="20" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/interceptor/OpLogInterceptor.java" timestamp="1525837442964">
+        <mark key="[" line="52" column="20" />
       </file>
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/java/com/baidu/codemaster2/model/HouseInfo.java" timestamp="1504079042127">
         <mark key="[" line="37" column="4" />
@@ -331,8 +331,8 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/callcloud/ICSCallCloudProxy.java" timestamp="1521020311746">
         <mark key="[" line="93" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/entity/OpLogEntity.java" timestamp="1525835983680">
-        <mark key="[" line="15" column="16" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/entity/OpLogEntity.java" timestamp="1525836864193">
+        <mark key="[" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/sql/service_person_info" timestamp="1507619637633">
         <mark key="[" line="0" column="0" />
@@ -358,6 +358,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/controller/LogoutController.java" timestamp="1523169156532">
         <mark key="[" line="63" column="59" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/interceptor/PermissionInterceptor.java" timestamp="1525836158242" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/controller/CustomerServiceController.java" timestamp="1510228100922">
         <mark key="[" line="36" column="70" />
       </file>
@@ -684,6 +685,9 @@
         <mark key="[" line="86" column="4" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/ArgApproveServiceImpl.java" timestamp="1525337331238" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/constants/OpPathMap.java" timestamp="1525836405190">
+        <mark key="[" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/webapp/js/public/react-dom.js" timestamp="1515478674292">
         <mark key="[" line="0" column="4" />
       </file>
