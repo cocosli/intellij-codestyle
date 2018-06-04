@@ -237,7 +237,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/init/it.base.sh" timestamp="1527830949862">
         <mark key="[" line="50" column="31" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/template/logback.xml" timestamp="1527831015454" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/template/logback.xml" timestamp="1528093753346" />
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/resources/_profile/dev/config-db.properties" timestamp="1525414354639">
         <mark key="[" line="35" column="22" />
       </file>
@@ -391,7 +391,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/MenuTreeService.java" timestamp="1522745074169">
         <mark key="[" line="42" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/template/config.properties" timestamp="1524713597281">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/template/config.properties" timestamp="1528093881817">
         <mark key="[" line="53" column="47" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/webapp/index.html" timestamp="1503393124956">
