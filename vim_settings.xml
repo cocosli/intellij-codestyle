@@ -45,6 +45,9 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/service/impl/CustomerServiceService.java" timestamp="1510227992418">
         <mark key="[" line="48" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/hadoop-2.7.6/etc/hadoop/core-site.xml" timestamp="1528269668125">
+        <mark key="[" line="18" column="14" />
+      </file>
       <file name="$USER_HOME$/company/proj/httpapi/src/main/resources/mybatis-config.xml" timestamp="1507689154780">
         <mark key="[" line="4" column="0" />
       </file>
@@ -60,7 +63,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/ics/ICSOutcallResult.java" timestamp="1510036681232">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/hadoop-2.7.6/etc/hadoop/hadoop-env.sh" timestamp="1528268800864">
+      <file name="$USER_HOME$/workspace/hadoop-2.7.6/etc/hadoop/hadoop-env.sh" timestamp="1528269621116">
         <mark key="[" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/test.properties" timestamp="1524714072608">
@@ -429,6 +432,9 @@
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/controller/HolmesController.java" timestamp="1523168132728">
         <mark key="[" line="96" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/hadoop-2.7.6/etc/hadoop/hdfs-site.xml" timestamp="1528269685810">
+        <mark key="[" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/CallCloudMd5Util.java" timestamp="1510304369311">
         <mark key="[" line="21" column="53" />
