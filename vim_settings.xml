@@ -511,7 +511,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/test.properties" timestamp="1522119614056">
         <mark key="[" line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/AbstractMessageService.java" timestamp="1528943234306" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/AbstractMessageService.java" timestamp="1528956532750" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/press.properties" timestamp="1522051163039">
         <mark key="[" line="117" column="0" />
       </file>
@@ -692,7 +692,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/CallRecordDao.java" timestamp="1517377252553">
         <mark key="[" line="86" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/send/DefaultBigpipeMessageSenderImpl.java" timestamp="1528944273923" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/send/DefaultBigpipeMessageSenderImpl.java" timestamp="1528956484687" />
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/constants/OpPathMap.java" timestamp="1525845998367">
         <mark key="[" line="9" column="0" />
       </file>
