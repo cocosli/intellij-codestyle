@@ -688,11 +688,11 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/api/CustomerServiceController.java" timestamp="1510293386266">
         <mark key="[" line="40" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/impl/BigPipeMessageServiceImpl.java" timestamp="1528950378756" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/impl/BigPipeMessageServiceImpl.java" timestamp="1528966962309" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/CallRecordDao.java" timestamp="1517377252553">
         <mark key="[" line="86" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/send/DefaultBigpipeMessageSenderImpl.java" timestamp="1528956484687" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/send/DefaultBigpipeMessageSenderImpl.java" timestamp="1528967129805" />
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/constants/OpPathMap.java" timestamp="1525845998367">
         <mark key="[" line="9" column="0" />
       </file>
