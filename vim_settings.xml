@@ -683,6 +683,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/conf/dev/dev.properties" timestamp="1510134493922">
         <mark key="[" line="26" column="53" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/pom.xml" timestamp="1529051973867" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/distrib/DistribService.java" timestamp="1529050981309">
         <mark key="[" line="321" column="45" />
       </file>
@@ -807,7 +808,7 @@
         <text encoding="base64">ICAgICAgICBTRVQgI3tzZXJ2aWNlUGhvbmUsamRiY1R5cGU9VkFSQ0hBUn0sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -829,6 +830,7 @@
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
