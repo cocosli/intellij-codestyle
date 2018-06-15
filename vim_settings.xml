@@ -81,7 +81,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/model/ReqUserPojo.java" timestamp="1510539943769">
         <mark key="[" line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/AbstractMessageListener.java" timestamp="1528948786998" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/AbstractMessageListener.java" timestamp="1529033394277" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/ICustomerServiceService.java" timestamp="1510286070750">
         <mark key="[" line="8" column="66" />
       </file>
@@ -634,9 +634,11 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/filter/AdapterSessionFilter.java" timestamp="1513162500047">
         <mark key="[" line="28" column="8" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/pom.xml" timestamp="1529033210768" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/callcloud/ICSOutcallResult.java" timestamp="1511764137974">
         <mark key="[" line="6" column="26" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-bom/pom.xml" timestamp="1529033016267" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/UUIDUtil.java" timestamp="1510280126853">
         <mark key="[" line="8" column="0" />
       </file>
