@@ -109,6 +109,9 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/CurrentUserService.java" timestamp="1525766099097">
         <mark key="[" line="315" column="46" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/processengine/async/message/handler/impl/AnalyzeMessageHandlerImpl.java" timestamp="1529049514877">
+        <mark key="[" line="84" column="64" />
+      </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/req/HealthCheckReq.java" timestamp="1507690445885">
         <mark key="[" line="3" column="0" />
       </file>
@@ -133,7 +136,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/it.base.properties" timestamp="1524714153338">
         <mark key="[" line="285" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/resources/spring/spring-bigpipe.xml" timestamp="1529043657681" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/resources/spring/spring-bigpipe.xml" timestamp="1529048965806" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/dao/model/CallRecordInfo.java" timestamp="1510120219073">
         <mark key="[" line="114" column="16" />
       </file>
@@ -268,7 +271,9 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/proxy/session/TerryHttpServletRequestWrapper.java" timestamp="1513156620594">
         <mark key="[" line="53" column="38" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/prism/service/impl/CommonProcessServiceImpl.java" timestamp="1528945409514" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/prism/service/impl/CommonProcessServiceImpl.java" timestamp="1529049348342">
+        <mark key="[" line="122" column="60" />
+      </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/dao/mapper/ServicePersonInfoMapper.java" timestamp="1508395652455">
         <mark key="[" line="37" column="32" />
       </file>
@@ -365,7 +370,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/dev.qa.properties" timestamp="1524714194483">
         <mark key="[" line="270" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529043663581">
+      <file name="/Dummy.txt" timestamp="1529049501744">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/sql/phone_info" timestamp="1510101852533">
@@ -678,8 +683,8 @@
       <file name="$USER_HOME$/company/proj/callcloud/conf/dev/dev.properties" timestamp="1510134493922">
         <mark key="[" line="26" column="53" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/distrib/DistribService.java" timestamp="1529045066127">
-        <mark key="[" line="321" column="41" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/distrib/DistribService.java" timestamp="1529049493131">
+        <mark key="[" line="321" column="45" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/processengine/async/message/handler/impl/SignalMessageHandlerImpl.java" timestamp="1528944707041" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/model/ics/ICSOutcallReq.java" timestamp="1510287431982">
