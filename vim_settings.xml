@@ -511,7 +511,7 @@
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/test/java/com/baidu/codemaster2/model/HouseInfoTest.java" timestamp="1503999941153">
         <mark key="[" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/ris-config/properties/03/processengine-config.properties" timestamp="1529486266063" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-config/properties/03/processengine-config.properties" timestamp="1529486717524" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/prod.properties" timestamp="1524713041682">
         <mark key="[" line="85" column="80" />
       </file>
@@ -581,6 +581,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/send/BigpipeMessageSender.java" timestamp="1529029196554">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-config/properties/03/bigpipe.properties" timestamp="1529486737947" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/webapp/index.html" timestamp="1510125197573">
         <mark key="[" line="38" column="71" />
       </file>
