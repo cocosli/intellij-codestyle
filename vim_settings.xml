@@ -138,7 +138,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/it.base.properties" timestamp="1524714153338">
         <mark key="[" line="285" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/resources/spring/spring-bigpipe.xml" timestamp="1529564882464" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/resources/spring/spring-bigpipe.xml" timestamp="1529567212601" />
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/dao/model/CallRecordInfo.java" timestamp="1510120219073">
         <mark key="[" line="114" column="16" />
       </file>
@@ -745,11 +745,11 @@
         <mark key="[" line="40" column="4" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/test/resources/spring/spring-config-test.xml" timestamp="1529553119329" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/impl/BigPipeMessageServiceImpl.java" timestamp="1529565195600" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/impl/BigPipeMessageServiceImpl.java" timestamp="1529568004828" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/CallRecordDao.java" timestamp="1517377252553">
         <mark key="[" line="86" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/send/DefaultBigpipeMessageSenderImpl.java" timestamp="1529555289811" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/send/DefaultBigpipeMessageSenderImpl.java" timestamp="1529567784882" />
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/constants/OpPathMap.java" timestamp="1525845998367">
         <mark key="[" line="9" column="0" />
       </file>
