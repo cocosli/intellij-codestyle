@@ -429,6 +429,9 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/service/MenuTreeService.java" timestamp="1522745074169">
         <mark key="[" line="42" column="4" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/build_ci.sh" timestamp="1530168310776">
+        <mark key="[" line="7" column="23" />
+      </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/template/config.properties" timestamp="1528706744872">
         <mark key="[" line="53" column="47" />
       </file>
@@ -582,7 +585,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/dao/mapper/ReturnVisitInfoMapper.java" timestamp="1510194552478">
         <mark key="[" line="22" column="47" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/build_ci.sh" timestamp="1529376661287">
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/build_ci.sh" timestamp="1530168680832">
         <mark key="[" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/company/proj/httpapi/pom.xml" timestamp="1507686881339">
