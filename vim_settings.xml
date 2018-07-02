@@ -530,6 +530,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/api/UserApi.java" timestamp="1512110119860">
         <mark key="[" line="37" column="42" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/test.properties" timestamp="1530515888860" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/AbstractMessageService.java" timestamp="1529572498459">
         <mark key="[" line="399" column="13" />
       </file>
@@ -578,7 +579,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/test/java/com/baidu/fps/adapter/MenuServiceTest.java" timestamp="1523947296328">
         <mark key="[" line="43" column="4" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/prod.properties" timestamp="1530346000384">
+      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/prod.properties" timestamp="1530514487053">
         <mark key="[" line="173" column="39" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/mapper/ServicePersonInfoMapper.java" timestamp="1510231733254">
@@ -602,6 +603,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/dev.properties" timestamp="1524714188427">
         <mark key="[" line="285" column="0" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/ArgusDataServiceImpl.java" timestamp="1530516047410" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/model/ReturnVisitInfo.java" timestamp="1510305818544">
         <mark key="[" line="143" column="30" />
       </file>
