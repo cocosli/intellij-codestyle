@@ -168,7 +168,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session-data-redis/1.3.1.RELEASE/spring-session-data-redis-1.3.1.RELEASE.pom" timestamp="1513002243753">
         <mark key="[" line="68" column="20" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/dev.properties" timestamp="1529046233564">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/dev.properties" timestamp="1530513680537">
         <mark key="[" line="16" column="18" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/utils/UUIDUtil.java" timestamp="1513146173107">
@@ -530,7 +530,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/api/UserApi.java" timestamp="1512110119860">
         <mark key="[" line="37" column="42" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/test.properties" timestamp="1522119614056">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/test.properties" timestamp="1530513518110">
         <mark key="[" line="132" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/AbstractMessageService.java" timestamp="1529572498459">
@@ -757,7 +757,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/mapper/UserMapper.java" timestamp="1523354154461">
         <mark key="[" line="27" column="64" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/ris/RisProxyImpl.java" timestamp="1530420713909" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/ris/RisProxyImpl.java" timestamp="1530513466163" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/MD5Util.java" timestamp="1512644697105">
         <mark key="[" line="101" column="4" />
       </file>
