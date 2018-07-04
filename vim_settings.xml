@@ -21,6 +21,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/prod.properties" timestamp="1530414466144">
         <mark key="[" line="85" column="80" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis-deploy/apsmis-house-mortgage/init/prod.base.sh" timestamp="1530688836704" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/template/ext/spring-db.xml" timestamp="1530347509910" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/test.properties" timestamp="1530515888860" />
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/prod.properties" timestamp="1530687242660">
@@ -37,6 +38,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/api/ArgusDataController.java" timestamp="1530672256033" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/ArgApproveServiceImpl.java" timestamp="1530420581130" />
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/proxy/argus/ArgusProxy.java" timestamp="1530686850971" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis-deploy/apsmis-adapter/init/online.base.sh" timestamp="1530688868758" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/ris/RisProxyImpl.java" timestamp="1530598285689" />
     </filemarks>
     <jumps>
