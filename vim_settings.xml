@@ -52,6 +52,7 @@
         <mark key="[" line="155" column="38" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/engine/tasks/BackOutTask.java" timestamp="1531194282374" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/resources/spring/spring-activiti.xml" timestamp="1531207953113" />
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/job/ForwardJob.java" timestamp="1530600088426" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/engine/tasks/AbstractAcitiviTask.java" timestamp="1531196983350" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/engine/AbstractEngine.java" timestamp="1531124554990" />
