@@ -20,6 +20,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/searchdb/SearchdbService.java" timestamp="1530599452399" />
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/model/po/NewApsData.java" timestamp="1530603717808" />
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/filter/AdapterFilter.java" timestamp="1530689984393" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/messager/handlers/ConfigMessageHandler.java" timestamp="1531190524920" />
       <file name="/Dummy.txt" timestamp="1531189241554">
         <mark key="[" line="0" column="0" />
       </file>
@@ -40,7 +41,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/aspect/ExceptionHandlerAspect.java" timestamp="1530841297602" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/controller/QualityController.java" timestamp="1530420057745" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/engine/tasks/MisDecisionTask.java" timestamp="1530690087407" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/init/prod.base.sh" timestamp="1530872066976">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/init/prod.base.sh" timestamp="1531190097955">
         <mark key="[" line="136" column="49" />
         <mark key="]" line="124" column="25" />
         <mark key="^" line="124" column="25" />
