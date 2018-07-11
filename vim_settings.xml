@@ -10,13 +10,13 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/utils/DesUtil.java" timestamp="1530689733346" />
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/service/impl/NewApsDataServiceImpl.java" timestamp="1531215672919" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/mis/MisProveService.java" timestamp="1530606813362" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/resources/spring/spring-bigpipe.xml" timestamp="1531275450778" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/resources/spring/spring-bigpipe.xml" timestamp="1531275979998" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/engine/activiti/ActivitiEngine.java" timestamp="1531125678690" />
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/resources/ext/spring-mvc.xml" timestamp="1530600135475" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/dev.properties" timestamp="1530513680537">
         <mark key="[" line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/engine/tasks/DistribTask.java" timestamp="1531275600779" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/engine/tasks/DistribTask.java" timestamp="1531275676229" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-config/build/build_tomcat.sh" timestamp="1530345044303" />
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/searchdb/SearchdbService.java" timestamp="1531217645492" />
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/model/po/NewApsData.java" timestamp="1531215708690" />
@@ -35,7 +35,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/ExceptionHandler.java" timestamp="1530840823409" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/template/ext/spring-db.xml" timestamp="1530347509910" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/test.properties" timestamp="1530515888860" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/MessageType.java" timestamp="1531218472789" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/MessageType.java" timestamp="1531276194996" />
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/prod.properties" timestamp="1530765472348">
         <mark key="[" line="173" column="39" />
       </file>
