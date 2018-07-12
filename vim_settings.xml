@@ -413,6 +413,9 @@
       <file name="/Class.txt.ft" timestamp="1507881261951">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/1" timestamp="1531385110772">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/resources/ext/spring-searchdb.xml" timestamp="1531366970018" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/processengine/async/message/handler/impl/DistribSignalMsgHandlerImpl.java" timestamp="1531360920131" />
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/profiles/cloud1.properties" timestamp="1513736645857">
@@ -744,8 +747,8 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/utils/ObjectUtil.java" timestamp="1510231758773">
         <mark key="[" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/api/ArgusDataController.java" timestamp="1531380814900">
-        <mark key="[" line="113" column="8" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/api/ArgusDataController.java" timestamp="1531385122123">
+        <mark key="[" line="143" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/mapper/ResourceMapper.java" timestamp="1522745656641">
         <mark key="[" line="32" column="49" />
