@@ -215,6 +215,7 @@
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/common/constant/CallType.java" timestamp="1509440788643">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/controller/RiskTagController.java" timestamp="1531368819802" />
       <file name="$USER_HOME$/Source/baidu/codemaster/house/service/src/main/resources/predict-config.properties" timestamp="1503976187414">
         <mark key="[" line="0" column="3" />
       </file>
@@ -266,7 +267,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/model/ApiBody.java" timestamp="1523345316926">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/CustomerServiceServiceImpl.java" timestamp="1525763140325">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/CustomerServiceServiceImpl.java" timestamp="1531368215845">
         <mark key="[" line="322" column="4" />
       </file>
       <file name="$USER_HOME$/company/proj/callcloud/src/main/java/com/baidu/rim/callcloud/model/req/OutboundCallReq.java" timestamp="1510028009781">
