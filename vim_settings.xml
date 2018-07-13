@@ -43,7 +43,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/resources/ext/spring-searchdb.xml" timestamp="1531366970018" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/processengine/async/message/handler/impl/DistribSignalMsgHandlerImpl.java" timestamp="1531360920131" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/processengine/async/message/handler/impl/DistribSignalMsgHandlerImpl.java" timestamp="1531476545992" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/apsmis/ArgusProxy.java" timestamp="1531366130176" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/engine/tasks/LimitCenterTask.java" timestamp="1531189129316" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/engine/activiti/delegate/RisActivitiDelegate.java" timestamp="1531282471839" />
@@ -51,6 +51,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/constants/DictionaryCode.java" timestamp="1531292724879">
         <mark key="[" line="144" column="0" />
       </file>
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/Message.java" timestamp="1531476500866" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/constants/MgEventKeyConstants.java" timestamp="1531379902633" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/profiles/prod.properties" timestamp="1530765483604">
         <mark key="[" line="85" column="80" />
@@ -65,10 +66,11 @@
         <mark key="[" line="173" column="39" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/model/po/ArgTaskStatusPo.java" timestamp="1530599140853" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/processengine/async/message/MessageListener.java" timestamp="1531476553343" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/ArgusDataServiceImpl.java" timestamp="1531453351943" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/aspect/ExceptionHandlerAspect.java" timestamp="1531214081614" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-gateway/src/main/java/com/ris/gateway/service/impl/UnionDispatchAdjustServiceImpl.java" timestamp="1531475822327" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/client/RisRpcServer.java" timestamp="1531476196493" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/client/RisRpcServer.java" timestamp="1531476421114" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/controller/QualityController.java" timestamp="1530420057745" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/engine/tasks/MisDecisionTask.java" timestamp="1530690087407" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-gateway/src/main/java/com/ris/gateway/bigpipe/handler/impl/Engine2GatewayDecisionMessageHandler.java" timestamp="1531475681230" />
@@ -83,7 +85,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/engine/AbstractEngine.java" timestamp="1531124554990" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/model/ArgDictionary.java" timestamp="1531290382519" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/controller/RiskInspectController.java" timestamp="1531367927005" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/distrib/DistribService.java" timestamp="1531476268559">
+      <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/distrib/DistribService.java" timestamp="1531477307873">
         <mark key="[" line="68" column="3" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/limitcenter/SaveLimitServiceImpl.java" timestamp="1531126433789" />
