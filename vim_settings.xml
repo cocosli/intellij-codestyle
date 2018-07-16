@@ -7,11 +7,15 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/controller/ApproveController.java" timestamp="1531453101671">
         <mark key="[" line="158" column="51" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/controller/NewApsDataController.java" timestamp="1531365596997" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/controller/NewApsDataController.java" timestamp="1531713497267">
+        <mark key="[" line="236" column="21" />
+      </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/adapter/src/main/java/com/baidu/fps/adapter/utils/DesUtil.java" timestamp="1530689733346" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/engine/tasks/RisTask.java" timestamp="1531279970580" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/template/ext/spring-searchdb.xml" timestamp="1531710551072" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/service/impl/NewApsDataServiceImpl.java" timestamp="1531215672919" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus-deploy/argus-config/template/ext/spring-searchdb.xml" timestamp="1531713018006" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/service/impl/NewApsDataServiceImpl.java" timestamp="1531713178695">
+        <mark key="[" line="1388" column="21" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/baidu/rim/ris-commons/1.0.271.021/ris-commons-1.0.271.021.jar!/com/ris/common/searchdb/SearchDbClient.class" timestamp="1531379360147" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/mis/MisProveService.java" timestamp="1530606813362" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/resources/spring/spring-bigpipe.xml" timestamp="1531360716619" />
@@ -50,8 +54,8 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/engine/tasks/LimitCenterTask.java" timestamp="1531189129316" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/engine/activiti/delegate/RisActivitiDelegate.java" timestamp="1531282471839" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/resources/spring-config.xml" timestamp="1531377384436" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/constants/DictionaryCode.java" timestamp="1531292724879">
-        <mark key="[" line="144" column="0" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/constants/DictionaryCode.java" timestamp="1531712600271">
+        <mark key="[" line="146" column="43" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-messager/src/main/java/com/ris/messager/Message.java" timestamp="1531476500866" />
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/constants/MgEventKeyConstants.java" timestamp="1531379902633" />
@@ -70,7 +74,9 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/dao/model/po/ArgTaskStatusPo.java" timestamp="1530599140853" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/processengine/async/message/MessageListener.java" timestamp="1531476553343" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/prism/activiti/engine/PrismSyncActivitiEngine.java" timestamp="1531533892153" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/ArgusDataServiceImpl.java" timestamp="1531453351943" />
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/service/impl/ArgusDataServiceImpl.java" timestamp="1531713364361">
+        <mark key="[" line="290" column="21" />
+      </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/aspect/ExceptionHandlerAspect.java" timestamp="1531214081614" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-gateway/src/main/java/com/ris/gateway/service/impl/UnionDispatchAdjustServiceImpl.java" timestamp="1531475822327" />
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/client/RisRpcServer.java" timestamp="1531551191932" />
@@ -101,7 +107,7 @@
         <mark key="." line="77" column="66" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/ris-processengine/src/main/java/com/ris/pm/limitcenter/SaveLimitServiceImpl.java" timestamp="1531126433789" />
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/api/ArgusDataController.java" timestamp="1531710732260">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/api/ArgusDataController.java" timestamp="1531713619134">
         <mark key="[" line="143" column="0" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/apsmis/src/main/java/com/baidu/fbu/apsmis/constants/MisDictionaryCode.java" timestamp="1531290134587" />
@@ -114,7 +120,7 @@
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/common/interceptor/PermissionInterceptor.java" timestamp="1530689550600">
         <mark key="[" line="86" column="53" />
       </file>
-      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/apsmis/ApsMisProxy.java" timestamp="1531366277928">
+      <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/java/com/baidu/rim/argus/proxy/apsmis/ApsMisProxy.java" timestamp="1531712806122">
         <mark key="[" line="37" column="12" />
       </file>
       <file name="$USER_HOME$/company/proj/baidu/rim/argus/src/main/webapp/WEB-INF/web.xml" timestamp="1531475236155" />
